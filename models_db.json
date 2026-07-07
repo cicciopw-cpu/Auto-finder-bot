@@ -1,0 +1,128 @@
+{
+  "fiat_panda": {
+    "name": "Fiat Panda",
+    "aliases": ["fiat panda", "panda"],
+    "length_mm": 3653,
+    "family_score": 9,
+    "notes": "5 porte, molto pratica per città e famiglia"
+  },
+  "fiat_500": {
+    "name": "Fiat 500",
+    "aliases": ["fiat 500", "500 hybrid", "500 ibrida", "500e", "fiat 500e"],
+    "length_mm": 3571,
+    "family_score": 5,
+    "notes": "compatta, meno pratica se 3 porte"
+  },
+  "lancia_ypsilon": {
+    "name": "Lancia Ypsilon",
+    "aliases": ["lancia ypsilon", "ypsilon"],
+    "length_mm": 3837,
+    "family_score": 8,
+    "notes": "buona citycar, spesso 5 porte"
+  },
+  "hyundai_i10": {
+    "name": "Hyundai i10",
+    "aliases": ["hyundai i10", "i10"],
+    "length_mm": 3670,
+    "family_score": 8,
+    "notes": "citycar pratica, spesso 5 porte"
+  },
+  "kia_picanto": {
+    "name": "Kia Picanto",
+    "aliases": ["kia picanto", "picanto"],
+    "length_mm": 3605,
+    "family_score": 8,
+    "notes": "citycar pratica, spesso 5 porte"
+  },
+  "toyota_aygo_x": {
+    "name": "Toyota Aygo X",
+    "aliases": ["toyota aygo x", "aygo x", "aygox"],
+    "length_mm": 3700,
+    "family_score": 7,
+    "notes": "compatta, automatica spesso CVT"
+  },
+  "suzuki_swift": {
+    "name": "Suzuki Swift",
+    "aliases": ["suzuki swift", "swift"],
+    "length_mm": 3860,
+    "family_score": 8,
+    "notes": "sotto 4 metri, valida se automatica"
+  },
+  "suzuki_ignis": {
+    "name": "Suzuki Ignis",
+    "aliases": ["suzuki ignis", "ignis"],
+    "length_mm": 3700,
+    "family_score": 8,
+    "notes": "piccola ma alta, valida in città"
+  },
+  "dacia_spring": {
+    "name": "Dacia Spring",
+    "aliases": ["dacia spring", "spring electric", "spring"],
+    "length_mm": 3701,
+    "family_score": 7,
+    "notes": "elettrica, sotto 4 metri"
+  },
+  "renault_twingo": {
+    "name": "Renault Twingo",
+    "aliases": ["renault twingo", "twingo"],
+    "length_mm": 3615,
+    "family_score": 7,
+    "notes": "citycar compatta"
+  },
+  "smart_fortwo": {
+    "name": "Smart Fortwo",
+    "aliases": ["smart fortwo", "fortwo", "smart eq fortwo"],
+    "length_mm": 2695,
+    "family_score": 2,
+    "notes": "2 posti, poco adatta con un figlio"
+  },
+  "smart_forfour": {
+    "name": "Smart Forfour",
+    "aliases": ["smart forfour", "forfour", "smart eq forfour"],
+    "length_mm": 3495,
+    "family_score": 6,
+    "notes": "4 posti, più utile della Fortwo"
+  },
+  "citroen_c3": {
+    "name": "Citroen C3",
+    "aliases": ["citroen c3", "citroën c3", "c3"],
+    "length_mm": 3996,
+    "family_score": 9,
+    "notes": "quasi 4 metri, buona per famiglia se automatica"
+  },
+  "peugeot_208": {
+    "name": "Peugeot 208",
+    "aliases": ["peugeot 208", "208"],
+    "length_mm": 4055,
+    "family_score": 0,
+    "notes": "di solito sopra 4 metri, esclusa salvo versioni diverse"
+  },
+  "renault_clio": {
+    "name": "Renault Clio",
+    "aliases": ["renault clio", "clio"],
+    "length_mm": 4053,
+    "family_score": 0,
+    "notes": "di solito sopra 4 metri, esclusa"
+  },
+  "fiat_topolino": {
+    "name": "Fiat Topolino",
+    "aliases": ["fiat topolino", "topolino"],
+    "length_mm": 2535,
+    "family_score": 1,
+    "notes": "microcar, poco adatta con bambino"
+  },
+  "citroen_ami": {
+    "name": "Citroen Ami",
+    "aliases": ["citroen ami", "citroën ami", "ami"],
+    "length_mm": 2410,
+    "family_score": 1,
+    "notes": "microcar, poco adatta con bambino"
+  },
+  "opel_rocks": {
+    "name": "Opel Rocks-e",
+    "aliases": ["opel rocks", "rocks-e", "rocks e"],
+    "length_mm": 2410,
+    "family_score": 1,
+    "notes": "microcar, poco adatta con bambino"
+  }
+}
