@@ -239,21 +239,29 @@
       "priority": "SCARTA",
       "score": 19,
       "first_seen": "07/07/2026 19:18"
+    },
+    "f86f392b3d02053bf7b8e39bd49047cf3cf1ed5df69e2326f43f107c9719499b": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-6kw-unico-proprietario-si-guida-a-14-anni-elettrica-verde-cat_ma28mo76797-b9f0af0f-502b-4634-95f5-b96299b398de",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "08/07/2026 00:01"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "07/07/2026 19:42",
+      "last_checked": "08/07/2026 00:01",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 749676,
+      "html_length": 750353,
       "items_found": 30
     }
   ],
   "_source_errors": [],
-  "_last_check": "07/07/2026 19:42",
-  "_last_check_day": "2026-07-07",
+  "_last_check": "08/07/2026 00:01",
+  "_last_check_day": "2026-07-08",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
 }
