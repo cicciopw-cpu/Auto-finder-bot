@@ -247,20 +247,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "08/07/2026 00:01"
+    },
+    "d7e04f2ca48b9e92b7ec86d1ec32d6514c012756aeff367ce25630861c523c49": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/smart-fortwo-fortwo-coupe-mhd-451-benzina-nero-cat_ma15525mo18439-5c445124-00f8-40cf-a270-43b38b7cff15",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 35,
+      "first_seen": "08/07/2026 15:17"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "08/07/2026 09:41",
+      "last_checked": "08/07/2026 15:17",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 752143,
+      "html_length": 750809,
       "items_found": 30
     }
   ],
   "_source_errors": [],
-  "_last_check": "08/07/2026 09:41",
+  "_last_check": "08/07/2026 15:17",
   "_last_check_day": "2026-07-08",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
