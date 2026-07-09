@@ -255,20 +255,52 @@
       "priority": "SCARTA",
       "score": 35,
       "first_seen": "08/07/2026 15:17"
+    },
+    "53642e3659021c39285e16ca5d7cafab156e904951ffb55943eee69e0e6d2777": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/minauto-minauto-e-minauto-access-elettrica-bianco-cat_ma51766mo74366-673bfb25-edf8-4524-9059-988547adb5c8",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "09/07/2026 12:40"
+    },
+    "6b3dacc0164a6a22d54695adbf9c777ed6f76b1296bad5d0648b8373a947873c": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-6kw-elettrica-verde-cat_ma28mo76797-716c530c-251c-4b1c-a316-4da0a00c14aa",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 34,
+      "first_seen": "09/07/2026 12:40"
+    },
+    "86a899b801731bc42b16cfab4a2b4a00ed4dc43da57c63c5e54edec8df193837": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-6-kw-elettrica-beige-cat_ma28mo76797-077abbd0-a6f1-453a-af1d-aa3d7236194a",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "09/07/2026 12:40"
+    },
+    "6a755234a6f501ec0bcfb427fc9eeb35d379b252049bcefa0dc90a82e5132f7b": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/leapmotor-t03-37-3kwh-2-posti-van-autocarro-n1-elettrica-verde-cat_ma52000mo76854-173b448b-6867-4121-8b4e-d56dd4d95aed",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 19,
+      "first_seen": "09/07/2026 12:40"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "09/07/2026 00:15",
+      "last_checked": "09/07/2026 12:40",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 750774,
-      "items_found": 30
+      "html_length": 779092,
+      "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "09/07/2026 00:15",
+  "_last_check": "09/07/2026 12:40",
   "_last_check_day": "2026-07-09",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
