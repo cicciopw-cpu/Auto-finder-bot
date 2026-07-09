@@ -287,20 +287,52 @@
       "priority": "SCARTA",
       "score": 19,
       "first_seen": "09/07/2026 12:40"
+    },
+    "60f094087b90eb946846afc7f062f51b7b19e728269769faca25ea17a803225e": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-elettrica-cat_ma28mo76797-a260f6ca-a3c5-4e78-bb48-750d3b803779",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "09/07/2026 19:33"
+    },
+    "5ae7874c85f9555ad982f09a3fde05e762e8a4e65be08af7c050af5c1301f243": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-promo-my-elettrica-grigio-cat_ma21mo75519-bdeb3aa6-8ba2-4095-929e-3c6718d4d16e",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "09/07/2026 19:33"
+    },
+    "2262297a8162989987bfeac48ce18a24c038c99da571bd7229fbe6cc6cda88b2": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mercedes-benz-ml-320-benzina-blu-azzurro-cat_ma47mo15202-64ec7bb2-443b-40d1-b4e5-0624b6a6db74",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "09/07/2026 19:33"
+    },
+    "9218db24ac16b289e807c97945f6022f1935a54d0d36db453b9a920e5aa71a69": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-verde-vita-elettrica-verde-cat_ma28mo76797-3d98d15b-ce3a-4f76-81a4-cad583118096",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "09/07/2026 19:33"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "09/07/2026 12:40",
+      "last_checked": "09/07/2026 19:33",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 779092,
+      "html_length": 776049,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "09/07/2026 12:40",
+  "_last_check": "09/07/2026 19:33",
   "_last_check_day": "2026-07-09",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
