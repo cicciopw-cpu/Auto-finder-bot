@@ -327,20 +327,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "10/07/2026 19:23"
+    },
+    "535bcc9b0bb689fe6446a83bf279587cb4b7d57224d3a532aa4983d663a0e8f1": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-elettrica-argento-cat_ma21mo75519-abe65f82-964e-48f1-af6f-c2f2ea05bf95",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "11/07/2026 12:40"
+    },
+    "188696221a4ba066871997671d9018ceec1c1d7b8f00fe60b80417458a15a9b1": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-my-elettrica-grigio-cat_ma21mo75519-279e9f9f-5a71-47f8-a412-e75b50cb461d",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "11/07/2026 12:40"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "11/07/2026 08:03",
+      "last_checked": "11/07/2026 12:40",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 776703,
+      "html_length": 772882,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "11/07/2026 08:03",
+  "_last_check": "11/07/2026 12:40",
   "_last_check_day": "2026-07-11",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
