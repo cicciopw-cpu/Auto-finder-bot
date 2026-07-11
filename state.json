@@ -351,20 +351,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "11/07/2026 16:36"
+    },
+    "80dc1f4ca622f0ab9cb9f2827382544a01d2ee1580e3165827eab228fc4900c0": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-quadriciclo-elettrico-color-pack-white-pronta-consegna-elettrica-marrone-cat_ma21mo75519-4e968502-3003-4f99-a590-9c90c29d6c3b",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 34,
+      "first_seen": "11/07/2026 19:42"
+    },
+    "d44545d04db21e250af9e9774c662c0adbc30f94f02162dc6eaed9a9de7334a5": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-6kw-elettrica-verde-cat_ma28mo76797-921f180b-5abb-455d-9210-8274138561cb",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "11/07/2026 19:42"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "11/07/2026 16:36",
+      "last_checked": "11/07/2026 19:42",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 773247,
+      "html_length": 779795,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "11/07/2026 16:36",
+  "_last_check": "11/07/2026 19:42",
   "_last_check_day": "2026-07-11",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
