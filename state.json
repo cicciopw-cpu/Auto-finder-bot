@@ -343,20 +343,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "11/07/2026 12:40"
+    },
+    "35b21e0dc7443bdda80082361dd54e9a3f6112956052010436ae2d8b9dc5f3f7": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-tua-da-98e-al-mese-elettrica-verde-cat_ma28mo76797-65ee9c8b-ca1b-492c-bf94-d2d36006cefc",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "11/07/2026 16:36"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "11/07/2026 12:40",
+      "last_checked": "11/07/2026 16:36",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 772882,
+      "html_length": 773247,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "11/07/2026 12:40",
+  "_last_check": "11/07/2026 16:36",
   "_last_check_day": "2026-07-11",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
