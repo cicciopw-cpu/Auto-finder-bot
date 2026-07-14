@@ -423,20 +423,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "14/07/2026 14:02"
+    },
+    "ffd3d7f58e7fe16f8bfc4e25f3e4fe23fb551a1b3c8fe7570e6705a5a176fee4": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-iva-esposta-elettrica-blu-azzurro-cat_ma28mo76797-b1a8df3a-1ba6-4040-91a4-bc4b4ca4a9b1",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "14/07/2026 18:46"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "14/07/2026 14:02",
+      "last_checked": "14/07/2026 18:46",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 781783,
+      "html_length": 781561,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "14/07/2026 14:02",
+  "_last_check": "14/07/2026 18:46",
   "_last_check_day": "2026-07-14",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
