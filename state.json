@@ -415,20 +415,28 @@
       "priority": "SCARTA",
       "score": 20,
       "first_seen": "13/07/2026 19:02"
+    },
+    "74ab95eb5b0ffb3eb344236094217adf3a427fefd010ef5d27a405836b843cb3": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-elettrica-blu-azzurro-cat_ma28mo76797-b1a8df3a-1ba6-4040-91a4-bc4b4ca4a9b1",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "14/07/2026 14:02"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "14/07/2026 09:22",
+      "last_checked": "14/07/2026 14:02",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 767426,
-      "items_found": 31
+      "html_length": 781783,
+      "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "14/07/2026 09:22",
+  "_last_check": "14/07/2026 14:02",
   "_last_check_day": "2026-07-14",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
