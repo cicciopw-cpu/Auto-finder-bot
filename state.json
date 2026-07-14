@@ -431,20 +431,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "14/07/2026 18:46"
+    },
+    "8b7489d67957945988a56330236a7a13625ef98e821bf1dffa12ab05ea4785c2": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-quadriciclo-elettrico-color-pack-orange-pronta-consegna-elettrica-marrone-cat_ma21mo75519-4e968502-3003-4f99-a590-9c90c29d6c3b",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 34,
+      "first_seen": "14/07/2026 22:41"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "14/07/2026 18:46",
+      "last_checked": "14/07/2026 22:41",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 781561,
+      "html_length": 781699,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "14/07/2026 18:46",
+  "_last_check": "14/07/2026 22:41",
   "_last_check_day": "2026-07-14",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
