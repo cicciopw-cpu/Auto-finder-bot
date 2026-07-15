@@ -439,20 +439,28 @@
       "priority": "SCARTA",
       "score": 34,
       "first_seen": "14/07/2026 22:41"
+    },
+    "a3f90bdf2688b22665d7be0d6be89f29962f81addeb88d9d296e697c1d4a82c5": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-pack-blue-elettrica-cat_ma21mo75519-dc5d8ef5-7f2b-409b-a136-a04e41d0c208",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "15/07/2026 18:53"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "15/07/2026 14:07",
+      "last_checked": "15/07/2026 18:53",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 778127,
+      "html_length": 777373,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "15/07/2026 14:07",
+  "_last_check": "15/07/2026 18:53",
   "_last_check_day": "2026-07-15",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
