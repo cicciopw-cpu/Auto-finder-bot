@@ -463,20 +463,44 @@
       "priority": "SCARTA",
       "score": 34,
       "first_seen": "17/07/2026 09:33"
+    },
+    "82151912d5a11b85bd8285cb1f1a0496c6e93e1d6b15f6165de805cb832caa99": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-si-guida-a-14-anni-elettrica-grigio-cat_ma28mo76797-1372e839-1936-4b39-b61c-95b2cc00040f",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "17/07/2026 13:59"
+    },
+    "daa6f562fcc7db3cb4a7197279897f0a07df2b35dcd68fdc805c050145b5bc2c": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-fiat-topolino-6kw-elettrica-verde-cat_ma28mo76797-727d2686-9fd6-4b5e-8d0f-4e3c01e07d58",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 34,
+      "first_seen": "17/07/2026 13:59"
+    },
+    "5ce8880158ec67358264ab90cb832989a822237ad6406db8a20f98e2d3dbcbf3": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-fiat-topolino-6kw-elettrica-rosso-cat_ma28mo76797-40509015-e93c-4049-ba35-4a83eb70998d",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 34,
+      "first_seen": "17/07/2026 13:59"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "17/07/2026 09:33",
+      "last_checked": "17/07/2026 13:59",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 777498,
+      "html_length": 778583,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "17/07/2026 09:33",
+  "_last_check": "17/07/2026 13:59",
   "_last_check_day": "2026-07-17",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
