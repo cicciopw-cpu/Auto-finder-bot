@@ -495,20 +495,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "18/07/2026 01:12"
+    },
+    "919ffcea46a8eca2edf9d417d173a164006c83558092b5db80f1a30681b0a967": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/leapmotor-t03-37-3kwh-elettrica-bianco-cat_ma52000mo76854-0b29d11e-f0b4-4cee-b0d2-196210732cd1",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 19,
+      "first_seen": "19/07/2026 13:39"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "19/07/2026 09:48",
+      "last_checked": "19/07/2026 13:39",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 764309,
+      "html_length": 763292,
       "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "19/07/2026 09:48",
+  "_last_check": "19/07/2026 13:39",
   "_last_check_day": "2026-07-19",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
