@@ -519,20 +519,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "20/07/2026 17:31"
+    },
+    "9aeb3c5102219ed6eaf0054dc4125d254532228e4eb6bd38e6935df89ad05a9f": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-elettrica-elettrica-blu-azzurro-cat_ma21mo75519-ef3445aa-b536-4059-afd7-eff8872f9fa8",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "20/07/2026 22:45"
+    },
+    "03bcf114e020a6561d0d52652318906ceb65d7b41bdfa5bb78bc9092649f4fb8": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-citroen-ami-pop-elettrica-cat_ma21mo75519-f6bdc769-02ba-4d11-8d6d-04cc078295a6",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "20/07/2026 22:45"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "20/07/2026 17:31",
+      "last_checked": "20/07/2026 22:45",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 765998,
+      "html_length": 764865,
       "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "20/07/2026 17:31",
+  "_last_check": "20/07/2026 22:45",
   "_last_check_day": "2026-07-20",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
