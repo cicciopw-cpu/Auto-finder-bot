@@ -503,20 +503,36 @@
       "priority": "SCARTA",
       "score": 19,
       "first_seen": "19/07/2026 13:39"
+    },
+    "9760ded9ffd22d0192e1e6e7ca27bd9ce2fc02e7e0996e5fb6d8e3bd14d8f854": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-elettrica-prezzo-reale-elettrica-verde-cat_ma28mo76797-54b66eef-f5f0-4f7d-ba09-9838b6479c70",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "20/07/2026 17:31"
+    },
+    "61f466c8c180a881987d3aca3b8087c4a9d1801e6f4c8c005d3bc9f47df882d1": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-elettrica-grigio-cat_ma21mo75519-f0b0a818-7a7d-415e-bc3f-d7c6df9cf56d",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "20/07/2026 17:31"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "20/07/2026 10:28",
+      "last_checked": "20/07/2026 17:31",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 763510,
+      "html_length": 765998,
       "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "20/07/2026 10:28",
+  "_last_check": "20/07/2026 17:31",
   "_last_check_day": "2026-07-20",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
