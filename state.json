@@ -535,20 +535,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "20/07/2026 22:45"
+    },
+    "33769728f80c8abcb22cd4643c2e2de8119751ce1765bbfb8ee3a971961bdf2a": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-my-ami-pack-grey-elettrica-grigio-cat_ma21mo75519-e831b0f3-4cec-4035-b547-d683d2045d3f",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "21/07/2026 11:38"
+    },
+    "4a3d0294e0e6cfd951ce31b25338b73e8c12a669b995d6501de8c6a3439e5833": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/toyota-aygo-x-1-0-vvt-i-72-cv-5-porte-trend-s-cvt-benzina-bianco-cat_ma70mo76240-6d72e838-9299-45fc-a548-69e165e9e543",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "21/07/2026 11:38"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "21/07/2026 02:08",
+      "last_checked": "21/07/2026 11:38",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 765499,
+      "html_length": 767529,
       "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "21/07/2026 02:08",
+  "_last_check": "21/07/2026 11:38",
   "_last_check_day": "2026-07-21",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
