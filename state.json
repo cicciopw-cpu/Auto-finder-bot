@@ -551,20 +551,44 @@
       "priority": "SCARTA",
       "score": 20,
       "first_seen": "21/07/2026 11:38"
+    },
+    "baeeecc0f4b625bba0962caebc0164f397c2c426b526bd3709ea66aa209d4b88": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-elettrica-blu-azzurro-cat_ma28mo76797-5b5a036d-678f-485c-b33b-c3fb2ad0c9bd",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "22/07/2026 15:11"
+    },
+    "c0c8b2aec7a50195402730bc26a4f8038ec000e588122aba49d4886dd780145d": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-pop-2-elettrica-grigio-cat_ma21mo75519-df4fa115-909e-44a3-895c-b2fbce61e67c",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "22/07/2026 15:11"
+    },
+    "3c584253f177618f503bcf3b181aaaac017020cf92c26047d97841ce76536bbf": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/dr-automobiles-dr-3-0-1-5-gpl-114cv-cvt-gpl-cat_ma16383mo76589-2521e6a6-8851-4985-ac28-47efa04b1665",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "22/07/2026 15:11"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "22/07/2026 10:00",
+      "last_checked": "22/07/2026 15:11",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 783979,
-      "items_found": 32
+      "html_length": 752239,
+      "items_found": 30
     }
   ],
   "_source_errors": [],
-  "_last_check": "22/07/2026 10:00",
+  "_last_check": "22/07/2026 15:11",
   "_last_check_day": "2026-07-22",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
