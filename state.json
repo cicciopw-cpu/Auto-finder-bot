@@ -583,20 +583,36 @@
       "priority": "SCARTA",
       "score": 45,
       "first_seen": "22/07/2026 19:51"
+    },
+    "dad0c4e7e42bd4a30f4234dfcbd51631cf93ca134cb9512aef94be1411750f32": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-new-ami-ami100-electric-elettrica-grigio-cat_ma21mo75519-4d669611-ed20-4280-b309-3db3e0d6e525",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 39,
+      "first_seen": "23/07/2026 14:14"
+    },
+    "925bb58ad75e3ffe943955aa5c0922935cc1339005ac4b401d4a2161f4674771": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-elettrica-blu-azzurro-cat_ma21mo75519-decc9f99-7375-46fa-8c84-2de6defbca1c",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "23/07/2026 14:14"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "23/07/2026 08:44",
+      "last_checked": "23/07/2026 14:14",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 754373,
+      "html_length": 752993,
       "items_found": 30
     }
   ],
   "_source_errors": [],
-  "_last_check": "23/07/2026 08:44",
+  "_last_check": "23/07/2026 14:14",
   "_last_check_day": "2026-07-23",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
