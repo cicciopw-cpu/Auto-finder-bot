@@ -639,20 +639,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "24/07/2026 11:12"
+    },
+    "29db7f14392bc3c909d3d492fc978f03b7e4d89f35a2764be51fbec4f3a4a87f": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-citroen-ami-si-guida-a-14-anni-elettrica-grigio-cat_ma21mo75519-cd662263-3ec2-484a-ac17-6577e6145bb9",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "24/07/2026 17:15"
+    },
+    "d891040ce46e2d749612683665d10cb12f9db8387ce4eff8f5b3a5ec8c5d569e": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-my-ami-pack-grey-elettrica-grigio-cat_ma21mo75519-449c837d-00e4-4ba5-ba38-add6b5b76350",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "24/07/2026 17:15"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "24/07/2026 11:12",
+      "last_checked": "24/07/2026 17:15",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 758539,
-      "items_found": 30
+      "html_length": 745705,
+      "items_found": 29
     }
   ],
   "_source_errors": [],
-  "_last_check": "24/07/2026 11:12",
+  "_last_check": "24/07/2026 17:15",
   "_last_check_day": "2026-07-24",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
