@@ -615,20 +615,44 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "24/07/2026 02:12"
+    },
+    "9928f896b71566016b7543b15228bfa7948524d94fd9c788e53d2e8b0ff0cfd3": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-corallo-pronta-consegna-elettrica-rosso-cat_ma28mo76797-cf1f30a7-bbe8-4adb-ac9f-0433dec22c49",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "24/07/2026 11:12"
+    },
+    "ea03dba30e361aa2eb0d9051ede195dacb952a027a1c0058aaa9d214d700a5ab": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-verde-pronta-consegna-elettrica-verde-cat_ma28mo76797-563f19a2-980e-4e96-a2d7-8a497af5480b",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "24/07/2026 11:12"
+    },
+    "efe599c6fafa46be25e79f0ef52eab1a618f23e51e81594dab68441b64552d43": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-elettrica-grigio-cat_ma21mo75519-9dedd349-c1e9-4ee8-96f5-ed6754dcaeea",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "24/07/2026 11:12"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "24/07/2026 02:12",
+      "last_checked": "24/07/2026 11:12",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 755356,
+      "html_length": 758539,
       "items_found": 30
     }
   ],
   "_source_errors": [],
-  "_last_check": "24/07/2026 02:12",
+  "_last_check": "24/07/2026 11:12",
   "_last_check_day": "2026-07-24",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
