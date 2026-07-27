@@ -671,20 +671,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "27/07/2026 01:37"
+    },
+    "1495bace25cabc88cbbdefdf09add104ead083bc1786ee19e415b2f394001795": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/dr-automobiles-dr5-0-5-0-1-5-turbo-gpl-149cv-cvt-gpl-cat_ma16383mo75551-70e024ce-1c23-41df-b5d8-035625a877b8",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "27/07/2026 14:00"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "27/07/2026 01:37",
+      "last_checked": "27/07/2026 14:00",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 746248,
+      "html_length": 745487,
       "items_found": 29
     }
   ],
   "_source_errors": [],
-  "_last_check": "27/07/2026 01:37",
+  "_last_check": "27/07/2026 14:00",
   "_last_check_day": "2026-07-27",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
