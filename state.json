@@ -743,20 +743,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "29/07/2026 12:08"
+    },
+    "ec35ad0459c8c45d2f561148ac8c35cd2ab3717442e3bd2f4f58e10c8078264e": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/audi-a6-avant-2-0-tdi-mhev-+-s-line-edition-quattro-s-tron-elettrica-diesel-grigio-cat_ma9mo1628-be5ac52f-9823-4d89-9006-3de8408dc875",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "29/07/2026 14:20"
+    },
+    "786bd65b9b6d704fed98769edea6a596411e72ee4981f7db497aa75f38ad4ece": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/audi-a6-avant-2-0-tdi-mhev-+-s-line-edition-quattro-s-tron-elettrica-diesel-grigio-cat_ma9mo1628-983c1832-8e3b-4987-aebc-fc250e5eb329",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "29/07/2026 14:20"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "29/07/2026 12:08",
+      "last_checked": "29/07/2026 14:20",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 727968,
-      "items_found": 28
+      "html_length": 746250,
+      "items_found": 29
     }
   ],
   "_source_errors": [],
-  "_last_check": "29/07/2026 12:08",
+  "_last_check": "29/07/2026 14:20",
   "_last_check_day": "2026-07-29",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
