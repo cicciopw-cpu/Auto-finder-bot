@@ -759,20 +759,28 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "29/07/2026 14:20"
+    },
+    "1575561165656547d02f64defd6b1cfd18ec2391ec5f4e1ed5b136567bd67a02": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/xev-yoyo-yoyo-premium-elettrica-blu-azzurro-cat_ma51860mo75838-bd968582-f78a-4e18-8942-4c28f90a0e9f",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "30/07/2026 05:36"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "30/07/2026 02:15",
+      "last_checked": "30/07/2026 05:36",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 744856,
+      "html_length": 746547,
       "items_found": 29
     }
   ],
   "_source_errors": [],
-  "_last_check": "30/07/2026 02:15",
+  "_last_check": "30/07/2026 05:36",
   "_last_check_day": "2026-07-30",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
