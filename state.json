@@ -791,20 +791,28 @@
       "priority": "SCARTA",
       "score": 10,
       "first_seen": "31/07/2026 12:15"
+    },
+    "aa814d3659a1838ef585ad981bf5d3a519762ce4131ee3ec8e1678b75a88ec05": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-my-ami-pack-grey-elettrica-grigio-cat_ma21mo75519-3db261f5-2d5a-4160-8642-30bb182fdf7b",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "31/07/2026 16:55"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "31/07/2026 14:21",
+      "last_checked": "31/07/2026 16:55",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 754010,
+      "html_length": 754186,
       "items_found": 29
     }
   ],
   "_source_errors": [],
-  "_last_check": "31/07/2026 14:21",
+  "_last_check": "31/07/2026 16:55",
   "_last_check_day": "2026-07-31",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
