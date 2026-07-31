@@ -789,14 +789,14 @@
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "31/07/2026 06:43",
+      "last_checked": "31/07/2026 09:38",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 738928,
+      "html_length": 738908,
       "items_found": 28
     }
   ],
   "_source_errors": [],
-  "_last_check": "31/07/2026 06:43",
+  "_last_check": "31/07/2026 09:38",
   "_last_check_day": "2026-07-31",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
