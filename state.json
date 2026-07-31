@@ -775,20 +775,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "30/07/2026 14:58"
+    },
+    "f58d34266511be678cb43de46329887ac742cb3ded187c07d4ee9ee7ea1b461a": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-elettrica-grigio-cat_ma21mo75519-cb89aa5d-fcff-456b-848f-248a534205c4",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "31/07/2026 06:43"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "31/07/2026 03:11",
+      "last_checked": "31/07/2026 06:43",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 737306,
+      "html_length": 738928,
       "items_found": 28
     }
   ],
   "_source_errors": [],
-  "_last_check": "31/07/2026 03:11",
+  "_last_check": "31/07/2026 06:43",
   "_last_check_day": "2026-07-31",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
