@@ -799,20 +799,44 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "31/07/2026 16:55"
+    },
+    "c6ab34c143bdb3c5de210fc40b1dca52ec7e00510b77862874dfcfcb7c51d3dc": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-nuova-km-zero-100-elettrica-elettrica-verde-cat_ma28mo76797-981b1a84-697e-497e-b23e-70eb9a481915",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "31/07/2026 18:47"
+    },
+    "d03774152679605f060b6c9e47caeba8ed94288b7feeddfa8cdbc88a5eec0e19": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-nuova-km-zero-100-elettrica-elettrica-verde-cat_ma28mo76797-25cbf1ae-b4df-4714-8e8f-e07ad5528c59",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "31/07/2026 18:47"
+    },
+    "5f300d966dd76b945893c465e1ade7a5d1df0f9d14144381cc7ac6ed7471a5a5": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/xev-yoyo-elettrica-nero-cat_ma51860mo75838-ecc94179-5345-4e95-a7a9-396a9561fb35",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "31/07/2026 18:47"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "31/07/2026 16:55",
+      "last_checked": "31/07/2026 18:47",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 754186,
+      "html_length": 749908,
       "items_found": 29
     }
   ],
   "_source_errors": [],
-  "_last_check": "31/07/2026 16:55",
+  "_last_check": "31/07/2026 18:47",
   "_last_check_day": "2026-07-31",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
