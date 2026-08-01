@@ -823,20 +823,28 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "31/07/2026 18:47"
+    },
+    "61a8c75956b64ae733c59c5044d9ffd4e55391a7af0f13db72920b9c21683f98": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-km-zero-elettrica-grigio-cat_ma21mo75519-2d5b1b0f-3db9-4092-a4ae-dfad5c3b6d4c",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "01/08/2026 06:32"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "01/08/2026 03:04",
+      "last_checked": "01/08/2026 06:32",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 749688,
+      "html_length": 750943,
       "items_found": 29
     }
   ],
   "_source_errors": [],
-  "_last_check": "01/08/2026 03:04",
+  "_last_check": "01/08/2026 06:32",
   "_last_check_day": "2026-08-01",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
