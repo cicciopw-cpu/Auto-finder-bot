@@ -839,20 +839,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "02/08/2026 08:37"
+    },
+    "99d9a11a478d2a6ae6a6e94b06fa4a09b9c626ab10f98349cff39c487ee988d7": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-icy-bianco-6kw-elettrica-grigio-cat_ma21mo75519-dac0abcc-0423-4c22-b2e4-13f31bb8d5e8",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 34,
+      "first_seen": "02/08/2026 18:32"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "02/08/2026 17:32",
+      "last_checked": "02/08/2026 18:32",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 734472,
+      "html_length": 733724,
       "items_found": 28
     }
   ],
   "_source_errors": [],
-  "_last_check": "02/08/2026 17:32",
+  "_last_check": "02/08/2026 18:32",
   "_last_check_day": "2026-08-02",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
