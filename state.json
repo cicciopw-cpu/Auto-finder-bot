@@ -895,20 +895,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "05/08/2026 16:32"
+    },
+    "6f85e455a9faf8f1f178cbd1beb21ba2dd58d2ace9726662096d29212d44c2f5": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/xev-yoyo-elettrica-bianco-cat_ma51860mo75838-c566b3c5-8fe7-495a-96bb-f2c46c649a8e",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "06/08/2026 11:15"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "06/08/2026 08:17",
+      "last_checked": "06/08/2026 11:15",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 736228,
-      "items_found": 29
+      "html_length": 751372,
+      "items_found": 30
     }
   ],
   "_source_errors": [],
-  "_last_check": "06/08/2026 08:17",
+  "_last_check": "06/08/2026 11:15",
   "_last_check_day": "2026-08-06",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
