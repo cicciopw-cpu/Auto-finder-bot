@@ -951,20 +951,28 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "07/08/2026 22:08"
+    },
+    "4abf59637311dcd96f6d21ba1c45ad8998a8cd01d9dcb7d8685e64cf5f55e48c": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/smart-fortwo-fortwo-iii-2015-eq-enel-x-white-elettrica-bianco-cat_ma15525mo18439-8bf44467-a8dd-48e8-9556-846c1f4faa15",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "08/08/2026 10:18"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "08/08/2026 09:32",
+      "last_checked": "08/08/2026 10:18",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 720823,
-      "items_found": 30
+      "html_length": 734215,
+      "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "08/08/2026 09:32",
+  "_last_check": "08/08/2026 10:18",
   "_last_check_day": "2026-08-08",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
