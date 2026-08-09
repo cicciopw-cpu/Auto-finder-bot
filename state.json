@@ -977,11 +977,18 @@
       "first_seen": "08/08/2026 13:00"
     }
   },
-  "_source_stats": [],
-  "_source_errors": [
-    "AutoScout24 - automatiche 2024+ 5-9k: 403 Client Error: Forbidden for url: https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1"
+  "_source_stats": [
+    {
+      "name": "AutoScout24 - automatiche 2024+ 5-9k",
+      "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
+      "last_checked": "09/08/2026 08:25",
+      "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
+      "html_length": 734045,
+      "items_found": 31
+    }
   ],
-  "_last_check": "09/08/2026 07:33",
+  "_source_errors": [],
+  "_last_check": "09/08/2026 08:25",
   "_last_check_day": "2026-08-09",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
