@@ -999,20 +999,28 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "10/08/2026 18:35"
+    },
+    "4f760eedd3989b14fac68bdccc80145cffb246b2fe1dbce5363ed4e3beb49479": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-c3-1-2-puretech-elle-ss-110cv-eat6-benzina-cat_ma21mo18264-1a702baf-cf4c-4e01-af93-299a9540095f",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "11/08/2026 04:19"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "11/08/2026 01:58",
+      "last_checked": "11/08/2026 04:19",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 756834,
+      "html_length": 758082,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "11/08/2026 01:58",
+  "_last_check": "11/08/2026 04:19",
   "_last_check_day": "2026-08-11",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
