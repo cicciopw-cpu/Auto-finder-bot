@@ -1015,20 +1015,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "11/08/2026 20:38"
+    },
+    "6c5c20c1398c3f4a1f420fb2dba1e760247554b6f2b37155653ea6190afb6ce8": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/suzuki-vitara-starview-4wd-allgrip-auto-incidentata-elettrica-benzina-bianco-cat_ma68mo2037-169d3e41-c4e9-4578-b671-5f9afb5fe1d9",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 10,
+      "first_seen": "12/08/2026 10:41"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "12/08/2026 09:13",
+      "last_checked": "12/08/2026 10:41",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 756768,
+      "html_length": 757928,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "12/08/2026 09:13",
+  "_last_check": "12/08/2026 10:41",
   "_last_check_day": "2026-08-12",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
