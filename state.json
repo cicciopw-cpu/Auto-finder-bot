@@ -1039,20 +1039,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "13/08/2026 10:07"
+    },
+    "2e0f3bddf3badbc5450de623089dfa3a2a05685fb96caa9d9a3d377628085817": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-my-ami-pop-elettrica-grigio-cat_ma21mo75519-291a5d46-13cf-4b56-87b3-ca55c75beed3",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "14/08/2026 04:45"
+    },
+    "79f873e990ec56400d6c86440749918efa510f913c42eea19e0457997b963d55": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-my-ami-pop-elettrica-grigio-cat_ma21mo75519-94118473-9b96-4276-8dc0-f997c8f2ae93",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "14/08/2026 04:45"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "14/08/2026 02:09",
+      "last_checked": "14/08/2026 04:45",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 758958,
+      "html_length": 760333,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "14/08/2026 02:09",
+  "_last_check": "14/08/2026 04:45",
   "_last_check_day": "2026-08-14",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
