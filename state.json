@@ -1063,20 +1063,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "14/08/2026 19:02"
+    },
+    "34a2cd7b48c634525d7938e1f1a88f4496a31b36a140a9de42e507e9e13ec4b6": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/leapmotor-t03-offerta-pmi-partita-iva-con-rottamazione-elettrica-bianco-cat_ma52000mo76854-0b29d11e-f0b4-4cee-b0d2-196210732cd1",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 19,
+      "first_seen": "15/08/2026 15:01"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "15/08/2026 14:13",
+      "last_checked": "15/08/2026 15:01",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 757701,
+      "html_length": 758288,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "15/08/2026 14:13",
+  "_last_check": "15/08/2026 15:01",
   "_last_check_day": "2026-08-15",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
