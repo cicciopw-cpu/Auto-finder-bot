@@ -1071,20 +1071,28 @@
       "priority": "SCARTA",
       "score": 19,
       "first_seen": "15/08/2026 15:01"
+    },
+    "5040ae372a73803b1ab3064b8a5f0b679bf73d49619baf0ef71c32b6597b4b38": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-elettrica-prezzo-reale-elettrica-verde-cat_ma28mo76797-86d45015-8c47-44a1-853a-c1f493361121",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "17/08/2026 10:56"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "17/08/2026 10:02",
+      "last_checked": "17/08/2026 10:56",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 760661,
+      "html_length": 761027,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "17/08/2026 10:03",
+  "_last_check": "17/08/2026 10:56",
   "_last_check_day": "2026-08-17",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
