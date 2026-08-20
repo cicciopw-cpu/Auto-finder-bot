@@ -1103,20 +1103,28 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "20/08/2026 06:45"
+    },
+    "a2a6e78e4e2443bc9a92de57f8425625f8aa07e82376d93d46667b5c4aab5d77": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mg-hs-hs-1-5-hybrid-luxury-auto-elettrica-benzina-nero-cat_ma48mo76350-230a512c-5c62-4980-a5af-357abff77906",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "20/08/2026 15:15"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "20/08/2026 14:15",
+      "last_checked": "20/08/2026 15:15",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 759200,
+      "html_length": 754970,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "20/08/2026 14:15",
+  "_last_check": "20/08/2026 15:15",
   "_last_check_day": "2026-08-20",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
