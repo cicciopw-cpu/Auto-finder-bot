@@ -1127,20 +1127,28 @@
       "priority": "SCARTA",
       "score": 30,
       "first_seen": "24/08/2026 10:08"
+    },
+    "c5eac1e1373e7cfd76677128d3c088d16c306671b4ceb7b9ea59e0e37007f8a4": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/aixam-city-minauto-easy-elettrica-cat_ma16352mo19164-509f7f13-4e39-4293-a77b-e11bb611150a",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 19,
+      "first_seen": "24/08/2026 12:46"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "24/08/2026 11:59",
+      "last_checked": "24/08/2026 12:46",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 760452,
+      "html_length": 759428,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "24/08/2026 11:59",
+  "_last_check": "24/08/2026 12:46",
   "_last_check_day": "2026-08-24",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
