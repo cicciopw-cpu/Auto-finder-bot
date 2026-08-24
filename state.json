@@ -1143,21 +1143,29 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "24/08/2026 17:02"
+    },
+    "ab953ff7b594203305c4148a5097288e73d8555fd31504c60ff8ef86cc01915a": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/dacia-spring-cargo-electric-45-my24-elettrica-bianco-cat_ma16360mo75804-a9a1ddec-43a1-4d70-9fae-c55ce20e43ec",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "24/08/2026 22:03"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "24/08/2026 21:40",
+      "last_checked": "24/08/2026 22:03",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 759650,
+      "html_length": 758210,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "24/08/2026 21:40",
+  "_last_check": "24/08/2026 22:03",
   "_last_check_day": "2026-08-24",
-  "_telegram_command_error": "",
+  "_telegram_command_error": "HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=45)",
   "_telegram_update_offset": 235114841
 }
