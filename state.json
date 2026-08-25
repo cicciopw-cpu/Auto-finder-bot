@@ -1151,20 +1151,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "24/08/2026 22:03"
+    },
+    "183a7e98c1e68e3e176e0c6a7a97fc2fae3f12bc67ad3a24afdd7256636fef8a": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-fiat-topolino-dolcevita-elettrica-cat_ma28mo76797-b4a40aed-f57c-415f-b754-7609a2488736",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "25/08/2026 15:07"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "25/08/2026 14:03",
+      "last_checked": "25/08/2026 15:07",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 758329,
+      "html_length": 757133,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "25/08/2026 14:03",
+  "_last_check": "25/08/2026 15:07",
   "_last_check_day": "2026-08-25",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
