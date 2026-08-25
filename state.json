@@ -1159,20 +1159,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "25/08/2026 15:07"
+    },
+    "b376d447987fbd29aa144f30c2a4562333e8fcca6cb8e6456376f812c2160488": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/dacia-spring-spring-electric-45-comfort-elettrica-bianco-cat_ma16360mo75804-0196ec29-277f-46b0-87a4-92b072044af0",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "25/08/2026 20:16"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "25/08/2026 19:44",
+      "last_checked": "25/08/2026 20:16",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 757891,
+      "html_length": 758402,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "25/08/2026 19:44",
+  "_last_check": "25/08/2026 20:16",
   "_last_check_day": "2026-08-25",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
