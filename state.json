@@ -1183,20 +1183,28 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "26/08/2026 10:07"
+    },
+    "2fc3017ecd260ee62d82e1bcff7ca3f062c0971f485333f18ebd02fb12b3f9d7": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/piaggio-altro-vespa-gts-125-benzina-beige-cat_ma16350mo21108-1c6d07c8-c58c-4902-83f0-2bcf57517286",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "26/08/2026 11:52"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "26/08/2026 11:01",
+      "last_checked": "26/08/2026 11:52",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 758919,
+      "html_length": 757833,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "26/08/2026 11:01",
+  "_last_check": "26/08/2026 11:52",
   "_last_check_day": "2026-08-26",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
