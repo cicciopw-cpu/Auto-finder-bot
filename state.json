@@ -1175,20 +1175,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "26/08/2026 03:41"
+    },
+    "3eda5c9820dc11520307c1e674f68001e577292c299618c40126fa58fd1a40d6": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mobilize-duo-45-neo-elettrica-nero-cat_ma52004mo76925-49e81956-5968-40e2-ae06-4e7332d2bfce",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "26/08/2026 10:07"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "26/08/2026 09:23",
+      "last_checked": "26/08/2026 10:07",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 758566,
+      "html_length": 759917,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "26/08/2026 09:23",
+  "_last_check": "26/08/2026 10:07",
   "_last_check_day": "2026-08-26",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
