@@ -1191,20 +1191,52 @@
       "priority": "SCARTA",
       "score": 20,
       "first_seen": "26/08/2026 11:52"
+    },
+    "dd976cb68a5d65b7901d7b1f7f378a4c95a7f760238b034a49c32c666a6d6733": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-my-elettrica-grigio-cat_ma21mo75519-15e6edc6-4a16-4572-a7f3-477a7b2d3d89",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "27/08/2026 18:30"
+    },
+    "c335434fe5a33bba9bee9935b8384294034d25a02f6e00e22f3ad916e44f1e32": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/aixam-altro-aixam-easy-access-incentivi-eco-bonus-elettrica-grigio-cat_ma16352mo19736-7b5a0f2e-ffaa-4aca-933d-55afda384b60",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 19,
+      "first_seen": "27/08/2026 18:30"
+    },
+    "3275c8d07a7676b4db172f5a1184d43e8174ccf8e6b78751fe79c917f3f39d87": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mercedes-benz-e-280-avantgarde-05-diesel-cat_ma47mo1864-b3e27d8e-f08a-4e1c-bda1-e45ad292569b",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "27/08/2026 18:30"
+    },
+    "37b1da3d8034cb2aec5dd04f8e3f48b1613ade3420de4e97474d4b9669cf5ed2": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-my-ami-rip-curl-sunrise-km0-pronta-consegna-elettrica-nero-cat_ma21mo75519-022cc9a7-c387-47d5-8d3c-86aa6eae953f",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "27/08/2026 18:30"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "27/08/2026 07:08",
+      "last_checked": "27/08/2026 18:30",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 759421,
-      "items_found": 33
+      "html_length": 762518,
+      "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "27/08/2026 07:08",
+  "_last_check": "27/08/2026 18:30",
   "_last_check_day": "2026-08-27",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
