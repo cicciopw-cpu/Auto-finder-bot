@@ -1247,20 +1247,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "29/08/2026 17:26"
+    },
+    "2fcbd93dcaa4629daa8c5676dc6b4b5c6da0d12efd5b2111971267fd6624f731": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/audi-q5-sportback-40-2-0-tdi-mhev-12v-s-line-quattro-s-tro-elettrica-diesel-nero-cat_ma9mo19155-714880a4-c76c-4a5d-8ac1-f5ef63f753ad",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "29/08/2026 23:19"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "29/08/2026 20:46",
+      "last_checked": "29/08/2026 23:19",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 757031,
+      "html_length": 758338,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "29/08/2026 20:46",
+  "_last_check": "29/08/2026 23:19",
   "_last_check_day": "2026-08-29",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
