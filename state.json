@@ -1263,20 +1263,36 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "31/08/2026 16:15"
+    },
+    "17e966afefe9aff5d536f2e34ae154f4b6ed255c6b293da3eb19de47890328f3": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mobilize-altro-duo-duo-45-neo-elettrica-nero-cat_ma52004mo76926-31a03b09-40fe-4cc7-b732-b7d0ea565092",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "31/08/2026 22:11"
+    },
+    "c5b09e496d37b6715e62ccf57d81425f28e650e098c6c35c1bc34f666a7a36f5": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/dr-automobiles-dr-3-0-1-5-116cv-cvt-benzina-cat_ma16383mo76589-bdf89966-2b83-45de-a0c7-3e64cfb8008b",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "31/08/2026 22:11"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "31/08/2026 16:15",
+      "last_checked": "31/08/2026 22:11",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 757709,
+      "html_length": 759360,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "31/08/2026 16:15",
+  "_last_check": "31/08/2026 22:11",
   "_last_check_day": "2026-08-31",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
