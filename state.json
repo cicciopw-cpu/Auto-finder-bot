@@ -1287,20 +1287,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "01/09/2026 15:42"
+    },
+    "9fb11e45f9798f86be7fa9464b68b3238cd3a14839ee99cc3efaba10bb2cd55e": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-elettrica-arancione-cat_ma28mo76797-e0fe1c75-37b2-49b4-a5c0-ff9faf149fd6",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "01/09/2026 19:27"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "01/09/2026 15:42",
+      "last_checked": "01/09/2026 19:27",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 764206,
-      "items_found": 32
+      "html_length": 761301,
+      "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "01/09/2026 15:42",
+  "_last_check": "01/09/2026 19:27",
   "_last_check_day": "2026-09-01",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
