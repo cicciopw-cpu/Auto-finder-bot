@@ -1319,20 +1319,28 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "02/09/2026 11:29"
+    },
+    "e5956c348effa138946d4d5f78323536efb4f6aee323436a9f301ad131b7d5d5": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-elettrica-cat_ma28mo76797-60a54a43-aef6-4c7b-8bcb-80d1274b7e40",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "02/09/2026 15:49"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "02/09/2026 11:29",
+      "last_checked": "02/09/2026 15:49",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 763710,
+      "html_length": 764740,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "02/09/2026 11:29",
+  "_last_check": "02/09/2026 15:49",
   "_last_check_day": "2026-09-02",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
