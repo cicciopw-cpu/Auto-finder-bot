@@ -1311,20 +1311,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "02/09/2026 06:59"
+    },
+    "d45e6746660467b29087c5b65f03569f9f708628c161548b151bc8de6a1a36d8": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mobilize-duo-80-elettrica-nero-cat_ma52004mo76925-33e6efdf-a9e1-4dfe-a63a-f0417cae2bf8",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "02/09/2026 11:29"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "02/09/2026 06:59",
+      "last_checked": "02/09/2026 11:29",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 765164,
+      "html_length": 763710,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "02/09/2026 06:59",
+  "_last_check": "02/09/2026 11:29",
   "_last_check_day": "2026-09-02",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
