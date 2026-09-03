@@ -1327,20 +1327,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "02/09/2026 15:49"
+    },
+    "020c007db9b226469c89496cbd3e20893f3d988fd8acc7f881482785563ab471": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/aixam-altro-aixam-easy-access-incentivi-eco-bonus-elettrica-grigio-cat_ma16352mo19736-4393ef56-e057-4360-a6ce-a759515b4129",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 19,
+      "first_seen": "03/09/2026 11:41"
+    },
+    "c2b4d43a471cacffd1085ec9fa2e8d7285e206e842fa6c67087c1dca420decca": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mobilize-duo-pro-elettrica-nero-cat_ma52004mo76925-9bcba584-8e29-4dc3-8456-49f6ed27e299",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 45,
+      "first_seen": "03/09/2026 11:41"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "03/09/2026 07:03",
+      "last_checked": "03/09/2026 11:41",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 764920,
+      "html_length": 762002,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "03/09/2026 07:03",
+  "_last_check": "03/09/2026 11:41",
   "_last_check_day": "2026-09-03",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
