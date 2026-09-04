@@ -1359,20 +1359,36 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "03/09/2026 15:54"
+    },
+    "17cff5c9192c0b882ffd9008a59d585ed6c22473e93627d7260a2236cd2e858c": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-my-ami-pack-grey-elettrica-grigio-cat_ma21mo75519-1b1cf14e-6e2e-438b-9647-84ca82ce36d1",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "04/09/2026 06:49"
+    },
+    "f1152eacd04ccbecdbf081c835fce796330a9f70385ca8e76728cafdcb75cecb": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-c3-1-2-puretech-elle-ss-110cv-eat6-benzina-cat_ma21mo18264-ce2e6f28-2650-4278-a16e-3d6102bf8db5",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "04/09/2026 06:49"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "04/09/2026 02:20",
+      "last_checked": "04/09/2026 06:49",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 756180,
+      "html_length": 757289,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "04/09/2026 02:20",
+  "_last_check": "04/09/2026 06:49",
   "_last_check_day": "2026-09-04",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
