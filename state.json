@@ -1383,20 +1383,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "04/09/2026 11:07"
+    },
+    "06fc9dce86e9b6099c6d3717265d66ec582cc9dd82a60ecd46616cbe42d454f9": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mobilize-duo-80-evo-elettrica-nero-cat_ma52004mo76925-c23a564f-3a6c-4306-841e-a15d70d407d2",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "04/09/2026 21:28"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "04/09/2026 19:02",
+      "last_checked": "04/09/2026 21:28",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 759138,
+      "html_length": 760786,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "04/09/2026 19:02",
+  "_last_check": "04/09/2026 21:28",
   "_last_check_day": "2026-09-04",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
