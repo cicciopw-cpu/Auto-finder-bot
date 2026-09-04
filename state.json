@@ -1375,20 +1375,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "04/09/2026 06:49"
+    },
+    "39bb17a5521db638a24741c89a3a9805919009fa186cd0cacf0247bae6edc7ef": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-si-guida-a-14-anni-elettrica-grigio-cat_ma28mo76797-b1f1f8cd-9f27-4139-ac71-1db500142867",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "04/09/2026 11:07"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "04/09/2026 06:49",
+      "last_checked": "04/09/2026 11:07",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 757289,
+      "html_length": 757455,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "04/09/2026 06:49",
+  "_last_check": "04/09/2026 11:07",
   "_last_check_day": "2026-09-04",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
