@@ -1407,20 +1407,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "05/09/2026 07:50"
+    },
+    "410f7a508740cda702b01e75a354b6c9927230718ed585a9fde0bb41a613ed88": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-pack-orange-elettrica-grigio-cat_ma21mo75519-6775ee60-64a0-4410-af00-129a4b1ad8c3",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "05/09/2026 11:40"
+    },
+    "b79474538115cff658935312c72e7d9b3130a7178ba14ec2219f56bd18fae08c": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/xev-yoyo-pro-km-1-000-pari-al-nuovo-elettrica-nero-cat_ma51860mo75838-2597a3a2-10b6-483c-b741-301092789338",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "05/09/2026 11:40"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "05/09/2026 07:50",
+      "last_checked": "05/09/2026 11:40",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 763099,
+      "html_length": 761595,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "05/09/2026 07:50",
+  "_last_check": "05/09/2026 11:40",
   "_last_check_day": "2026-09-05",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
