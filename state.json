@@ -1391,20 +1391,36 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "04/09/2026 21:28"
+    },
+    "8d51f831b14acca29276b25d240f9114d6bb1ae1f065b7842d1c8695c6f28918": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-my-ami-pop-elettrica-grigio-cat_ma21mo75519-e2917a2c-6a8f-49fd-899a-436b5206f0fe",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "05/09/2026 07:50"
+    },
+    "876d07514ea7f85b7b001efffc702c8a6970719c5a2213c97e8b8a02e71d47d5": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-6-kw-elettrica-beige-cat_ma28mo76797-84acdb26-800a-4135-92b0-ce704fff7b1d",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "05/09/2026 07:50"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "05/09/2026 03:15",
+      "last_checked": "05/09/2026 07:50",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 759864,
+      "html_length": 763099,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "05/09/2026 03:15",
+  "_last_check": "05/09/2026 07:50",
   "_last_check_day": "2026-09-05",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
