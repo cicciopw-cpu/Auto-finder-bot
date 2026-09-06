@@ -1455,20 +1455,28 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "06/09/2026 13:47"
+    },
+    "b0b2de067b5721039060bbff6d6f0d7adef37dbfa43029d810d8514eb6e2e9a0": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/xev-yoyo-easy-km-1-000-pari-al-nuovo-elettrica-grigio-cat_ma51860mo75838-2597a3a2-10b6-483c-b741-301092789338",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "06/09/2026 21:18"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "06/09/2026 19:17",
+      "last_checked": "06/09/2026 21:18",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 759856,
+      "html_length": 760251,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "06/09/2026 19:17",
+  "_last_check": "06/09/2026 21:18",
   "_last_check_day": "2026-09-06",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
