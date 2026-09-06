@@ -1431,20 +1431,44 @@
       "priority": "SCARTA",
       "score": 34,
       "first_seen": "05/09/2026 18:00"
+    },
+    "0c334aaba7db0569d1994be817f955b2aeec6054fbd4559f2470fa6deffabc95": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mobilize-duo-con-sensori-di-parcheggio-elettrica-cat_ma52004mo76925-87bc808d-d670-43b9-9fcc-89186c912a7c",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "06/09/2026 13:47"
+    },
+    "d41a60c85fd68222432191f4b44f20ba4fc4b003d4bf967a71d2a261b40482f8": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-categoria-l6-elettrica-blu-azzurro-cat_ma28mo76797-9bde7cad-3182-4f11-9c8e-db1529c0961f",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "06/09/2026 13:47"
+    },
+    "742007bbdf18b89946ba009d99e6f561572ac931d84fdd348469eda96901c9be": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/xev-yoyo-pro-km-1-000-pari-al-nuovo-elettrica-grigio-cat_ma51860mo75838-2597a3a2-10b6-483c-b741-301092789338",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "06/09/2026 13:47"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "06/09/2026 09:49",
+      "last_checked": "06/09/2026 13:47",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 763816,
+      "html_length": 759754,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "06/09/2026 09:49",
+  "_last_check": "06/09/2026 13:47",
   "_last_check_day": "2026-09-06",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
