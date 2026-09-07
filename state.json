@@ -1471,20 +1471,36 @@
       "priority": "SCARTA",
       "score": 19,
       "first_seen": "07/09/2026 13:52"
+    },
+    "d042aa4e44fc41ae3434e34fdd309014a1d85d4de92530e140e4cfe5729d4aa9": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/audi-q8-3-0-tfsi-mhev-s-line-quattro-340cv-tiptronic-lis-elettrica-benzina-grigio-cat_ma9mo74734-a347f7bb-c7cf-4ad1-8581-69541750d563",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "07/09/2026 19:08"
+    },
+    "8c229d5dfe85f3ba455f678f857b9d1fc37205edbd98386bc75f895ab3120256": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/audi-q8-3-0-tfsi-mhev-s-line-quattro-340cv-tiptronic-lis-elettrica-benzina-grigio-cat_ma9mo74734-08606413-3e3f-4a0c-877f-3966e764ff35",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "07/09/2026 19:08"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "07/09/2026 13:52",
+      "last_checked": "07/09/2026 19:08",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 761357,
+      "html_length": 763066,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "07/09/2026 13:52",
+  "_last_check": "07/09/2026 19:08",
   "_last_check_day": "2026-09-07",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
