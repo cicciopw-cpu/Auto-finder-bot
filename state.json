@@ -1463,20 +1463,28 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "06/09/2026 21:18"
+    },
+    "177cb25687d1fff84001f908102236e5e81dcabf09ac0e623ba54d385fcdcb9d": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/aixam-altro-aixam-easy-access-incentivi-eco-bonus-elettrica-grigio-cat_ma16352mo19736-6c8a8edf-4016-4ee4-afb6-5f5db6d48a28",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 19,
+      "first_seen": "07/09/2026 13:52"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "07/09/2026 07:55",
+      "last_checked": "07/09/2026 13:52",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 760181,
+      "html_length": 761357,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "07/09/2026 07:55",
+  "_last_check": "07/09/2026 13:52",
   "_last_check_day": "2026-09-07",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
