@@ -1551,20 +1551,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "09/09/2026 13:49"
+    },
+    "1eb7e730fffd44eb266a1d7cff6e8e834cb3f78f5b37387a5a61f742c69a9a9d": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-my-ami-pop-elettrica-argento-cat_ma21mo75519-cbe08256-c586-43f7-82f9-bdca6b6930ed",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "09/09/2026 17:25"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "09/09/2026 13:49",
+      "last_checked": "09/09/2026 17:25",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 768738,
+      "html_length": 769948,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "09/09/2026 13:49",
+  "_last_check": "09/09/2026 17:25",
   "_last_check_day": "2026-09-09",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
