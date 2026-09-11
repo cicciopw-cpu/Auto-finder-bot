@@ -1575,20 +1575,36 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "09/09/2026 20:47"
+    },
+    "03fa35f86232ff4f4e31f6ebd05d7df6ec064553f9308893f35bd6a27214f958": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/toyota-c-hr-c-hr-1-8-hev-trend-fwd-e-cvt-elettrica-benzina-grigio-cat_ma70mo74374-db291e4e-4549-4e91-a844-67afe601fed4",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "11/09/2026 12:31"
+    },
+    "f919d71bada6e356f1d1c690958c270227810a43c26df8d64de2895a223c56ec": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-elettrica-verde-cat_ma28mo76797-53b99af9-e48f-466a-ba42-29e9ef196dac",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "11/09/2026 12:31"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "11/09/2026 07:52",
+      "last_checked": "11/09/2026 12:31",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 769830,
+      "html_length": 764109,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "11/09/2026 07:52",
+  "_last_check": "11/09/2026 12:31",
   "_last_check_day": "2026-09-11",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
