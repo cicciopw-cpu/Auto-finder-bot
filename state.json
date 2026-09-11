@@ -1591,20 +1591,44 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "11/09/2026 12:31"
+    },
+    "310e831983d6af7c73c7a0c698da578f14ba2678185f806ddeaa6fc973d9c29a": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/bmw-x1-x1-sdrive18d-x-line-auto-diesel-bianco-cat_ma13mo19242-7919b0c0-452a-44bf-9c18-444f1dbc9145",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 0,
+      "first_seen": "11/09/2026 16:35"
+    },
+    "8464b285f5aeaa00b60a6aaa320fcb961b93f0fb1a1cb7400f5594ddaef87af0": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-6kw-elettrica-verde-cat_ma28mo76797-f2efba64-0067-4fb8-aaca-a15ad6391eef",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "11/09/2026 16:35"
+    },
+    "806bbf73e24a617ab5d5fdc12a8f66b5416f8a6095934606de29b73df899f40d": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-6kw-elettrica-verde-cat_ma28mo76797-db107697-7469-413c-9b05-a7d1fffa80d7",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "11/09/2026 16:35"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "11/09/2026 12:31",
+      "last_checked": "11/09/2026 16:35",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 764109,
-      "items_found": 32
+      "html_length": 763794,
+      "items_found": 30
     }
   ],
   "_source_errors": [],
-  "_last_check": "11/09/2026 12:31",
+  "_last_check": "11/09/2026 16:35",
   "_last_check_day": "2026-09-11",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
