@@ -1623,20 +1623,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "11/09/2026 19:53"
+    },
+    "4e50b1bbbec9a3bb3e85fc8d19f68595131549d5fd168895e6d756595fc3f02f": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-corallo-elettrica-arancione-cat_ma28mo76797-66fb67db-97de-4dc0-8b25-b463f28c6898",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "12/09/2026 22:48"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "12/09/2026 20:24",
+      "last_checked": "12/09/2026 22:48",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 764760,
-      "items_found": 31
+      "html_length": 762230,
+      "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "12/09/2026 20:24",
+  "_last_check": "12/09/2026 22:48",
   "_last_check_day": "2026-09-12",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
