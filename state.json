@@ -1639,20 +1639,52 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "13/09/2026 07:09"
+    },
+    "39acf40dabe0992f4e51e90009cb0ac2d366f12bb6ea60b81ad6ce5e80bd20ab": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-fiat-topolino-elettrica-verde-cat_ma28mo76797-2e094f6c-dbf3-4ef2-b890-5554f5f6db32",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 34,
+      "first_seen": "14/09/2026 16:03"
+    },
+    "9ab944211297c5440f73f16b09902394e2f8e38a9bb8a7444fca7da64ffb57a6": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-elettrica-prezzo-reale-elettrica-verde-cat_ma28mo76797-9ac06b82-de42-402b-a9c2-0dc9d8e8910e",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "14/09/2026 16:03"
+    },
+    "1993c8a13f5c1ad990adde53e872509ab35e09eb4f3c593a54ca431518d0b70d": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mercedes-benz-a-200-a-200-d-edition-amg-line-auto-diesel-nero-cat_ma47mo18487-84115cf1-d85c-465c-84b0-626b0b0e2f8b",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 0,
+      "first_seen": "14/09/2026 16:03"
+    },
+    "173fc658f5b3fc3f4e11700e91d35534db4e360e589726f05f1243b3a002e651": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/audi-q5-sportback-2-0-tdi-mhev+-s-line-edition-quattro-204-elettrica-diesel-grigio-cat_ma9mo19155-64f546d3-6cb6-4579-b548-8df291a0bb97",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "14/09/2026 16:03"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "14/09/2026 09:09",
+      "last_checked": "14/09/2026 16:03",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 766331,
-      "items_found": 32
+      "html_length": 766349,
+      "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "14/09/2026 09:09",
+  "_last_check": "14/09/2026 16:03",
   "_last_check_day": "2026-09-14",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
