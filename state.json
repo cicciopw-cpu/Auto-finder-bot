@@ -1679,20 +1679,28 @@
       "priority": "SCARTA",
       "score": 34,
       "first_seen": "15/09/2026 12:30"
+    },
+    "7ff2d73cac0b750a8836d81e302de73a9710ff278ba3864720a9e66ed161ec8c": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/aixam-city-gto-diesel-rosso-cat_ma16352mo19164-4d355d43-85f2-43bf-892b-7f039fd7f9a3",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "15/09/2026 21:04"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "15/09/2026 17:14",
+      "last_checked": "15/09/2026 21:04",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 761276,
-      "items_found": 33
+      "html_length": 761060,
+      "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "15/09/2026 17:14",
+  "_last_check": "15/09/2026 21:04",
   "_last_check_day": "2026-09-15",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
