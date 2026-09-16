@@ -1687,20 +1687,28 @@
       "priority": "SCARTA",
       "score": 20,
       "first_seen": "15/09/2026 21:04"
+    },
+    "eefbcb4d7901df20681892b14fd424ce681a1e510ee17c5d4b570545babb3a53": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/aixam-city-minauto-access-diesel-bianco-cat_ma16352mo19164-32836061-e717-4f8e-89c0-f336989892b4",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "16/09/2026 16:32"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "16/09/2026 11:52",
+      "last_checked": "16/09/2026 16:32",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 760577,
+      "html_length": 757220,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "16/09/2026 11:52",
+  "_last_check": "16/09/2026 16:32",
   "_last_check_day": "2026-09-16",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
