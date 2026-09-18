@@ -1695,20 +1695,28 @@
       "priority": "SCARTA",
       "score": 20,
       "first_seen": "16/09/2026 16:32"
+    },
+    "0c53aa3318b6d9e7c406cd122b525d1819cee1aa6a86639c23697b147bbd0e25": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-peps-elettrica-grigio-cat_ma21mo75519-8c16de77-9ded-429a-a38d-51026100e6bb",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "18/09/2026 07:54"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "18/09/2026 03:08",
+      "last_checked": "18/09/2026 07:54",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 756224,
+      "html_length": 755536,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "18/09/2026 03:08",
+  "_last_check": "18/09/2026 07:54",
   "_last_check_day": "2026-09-18",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
