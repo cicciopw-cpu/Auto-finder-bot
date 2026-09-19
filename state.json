@@ -1735,20 +1735,44 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "18/09/2026 22:22"
+    },
+    "15e67fc48b0a34d3ca6180134c58bfb7c9adfe59a718a846e062d66397c6df3b": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-elettrica-grigio-cat_ma21mo75519-1537fda6-5a13-4c44-acde-c54d7e743920",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "19/09/2026 07:08"
+    },
+    "4689e0e042d44570e86acb946e136d7fb1d1360f2fc4bdfd30e5c4f5105c195f": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-elettrica-grigio-cat_ma21mo75519-57c00028-6d32-4b72-994c-f67fadc50ad3",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "19/09/2026 07:08"
+    },
+    "cbe8b93458df1d226730e5ce25041c513959f1ee915e3aa0b62984db4abd52ff": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-elettrica-blu-azzurro-cat_ma21mo75519-6a76abf2-dfcc-46eb-a3ba-859548d448d0",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "19/09/2026 07:08"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "19/09/2026 02:40",
+      "last_checked": "19/09/2026 07:08",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 756609,
+      "html_length": 757888,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "19/09/2026 02:40",
+  "_last_check": "19/09/2026 07:08",
   "_last_check_day": "2026-09-19",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
