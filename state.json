@@ -1767,20 +1767,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "21/09/2026 12:58"
+    },
+    "7f9d9af895123a0f03ab39dbe5c1602abd3c58b611dc375432933ad5fd305747": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-dark-side-limited-edition-elettrica-nero-cat_ma21mo75519-2dc80e1f-3dca-4460-9ba1-3ac2f1a7aa16",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "22/09/2026 11:29"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "22/09/2026 06:41",
+      "last_checked": "22/09/2026 11:29",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 755525,
-      "items_found": 32
+      "html_length": 758959,
+      "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "22/09/2026 06:41",
+  "_last_check": "22/09/2026 11:29",
   "_last_check_day": "2026-09-22",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
