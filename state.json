@@ -1775,20 +1775,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "22/09/2026 11:29"
+    },
+    "2874033a33d1d65c5bbc459cbe4ecedfbd3b14e0bbe020865fb42050ce827376": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-elettrica-cat_ma28mo76797-a1bf75c3-6f0b-4abe-98d6-cf20c01c008d",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "22/09/2026 16:08"
+    },
+    "5af2eeede0987546e6f1d1e73de1186a0968c866b6e1a7e596c1ad535674a598": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/dr-automobiles-dr1-0-dr-1-0-ev-eq1-2024-perfette-condizioni-elettrica-grigio-cat_ma16383mo76593-f8eb12c8-708f-4184-9103-867ae91ca1b3",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 50,
+      "first_seen": "22/09/2026 16:08"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "22/09/2026 11:29",
+      "last_checked": "22/09/2026 16:08",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 758959,
-      "items_found": 33
+      "html_length": 757952,
+      "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "22/09/2026 11:29",
+  "_last_check": "22/09/2026 16:08",
   "_last_check_day": "2026-09-22",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
