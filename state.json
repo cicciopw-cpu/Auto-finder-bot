@@ -1807,20 +1807,52 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "23/09/2026 14:19"
+    },
+    "31d5d1c92545348ff012bc3ffdfcf422cfd9196d3ecb488a4ab28fd4b1b8f8dd": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/dacia-spring-45-35-kw-van-2-posti-elettrica-bianco-cat_ma16360-5d56e570-e647-4f1d-8c11-a0eb75763d59",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "23/09/2026 22:30"
+    },
+    "b6f6dec2bfb4e7028e7d1be78a934138b1682ef0d875f300fdc279aeb3b92fad": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/dacia-spring-45-35-kw-van-2-posti-elettrica-bianco-cat_ma16360-c9906e42-d0c8-47f2-be06-ac27202405a8",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "23/09/2026 22:30"
+    },
+    "8426c444bfce5480fd7fd347bc11d2e630d509c62cac44ef2d719e527cb5f1ad": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/land-rover-freelander-freelander-2-4x4-diesel-cat_ma15641mo15792-18f5be60-7815-4ed1-979d-4ecec501acf3",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "23/09/2026 22:30"
+    },
+    "3c4b3f2875c9c9a49914feb64d12cf58635154ce06266e98b3f5996857d2e3ba": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-pop-elettrica-grigio-cat_ma21mo75519-276fa0a6-d169-46df-8ffd-7d8ac2152582",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "23/09/2026 22:30"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "23/09/2026 19:16",
+      "last_checked": "23/09/2026 22:30",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 760620,
-      "items_found": 31
+      "html_length": 757732,
+      "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "23/09/2026 19:16",
+  "_last_check": "23/09/2026 22:30",
   "_last_check_day": "2026-09-23",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
