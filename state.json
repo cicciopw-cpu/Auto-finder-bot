@@ -1863,21 +1863,37 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "25/09/2026 14:17"
+    },
+    "8eb3683a1308feab4c9865c0499e1fa15cf51027941b62e52c9eaa90d34ebb9c": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-100-elettrico-pronta-consegna-elettrica-marrone-cat_ma21mo75519-0d7ec98b-77f6-487e-95f4-e556da976b22",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "26/09/2026 01:30"
+    },
+    "7bb2c0a9a4ff17bfbed3e8606fb08af8a9a582cecbf2bd630aba7c19b15f162d": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-my-ami-pack-color-orange-pronta-consegna-elettrica-marrone-cat_ma21mo75519-618af501-f285-45d8-954f-16f083641d70",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "26/09/2026 01:30"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "25/09/2026 22:34",
+      "last_checked": "26/09/2026 01:30",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 764343,
+      "html_length": 761689,
       "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "25/09/2026 22:34",
-  "_last_check_day": "2026-09-25",
+  "_last_check": "26/09/2026 01:30",
+  "_last_check_day": "2026-09-26",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
 }
