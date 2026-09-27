@@ -1887,20 +1887,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "27/09/2026 12:46"
+    },
+    "dee5bd094b52ae6fdbdc5c198b2cec7f9f5338e252ea5875d7ef37996f41af80": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/altro-altro-microcar-scooter-cabinato-elettrica-cat_ma16328mo16564-7e0aedd9-5980-40ae-8b26-b1d4b659184a",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "27/09/2026 17:22"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "27/09/2026 12:46",
+      "last_checked": "27/09/2026 17:22",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 756980,
+      "html_length": 756186,
       "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "27/09/2026 12:46",
+  "_last_check": "27/09/2026 17:22",
   "_last_check_day": "2026-09-27",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
