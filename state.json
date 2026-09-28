@@ -1895,20 +1895,68 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "27/09/2026 17:22"
+    },
+    "06d8d42246a9f9a317a03777426218e61afade77e09bed3a016d413361e58a5a": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/aixam-altro-aixam-easy-access-incentivi-eco-bonus-elettrica-grigio-cat_ma16352mo19736-1b6ed8ed-fc48-4dca-83c9-db5a39736228",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 19,
+      "first_seen": "28/09/2026 15:41"
+    },
+    "61b1b781865ce656e85c3594180caa020f7325aad8182f714f91fec62ccefb47": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/aixam-altro-aixam-easy-access-incentivi-eco-bonus-elettrica-grigio-cat_ma16352mo19736-52336fcd-c2d5-485b-9d7f-e7023ffaa655",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 19,
+      "first_seen": "28/09/2026 15:41"
+    },
+    "3c839ce4b973a45ce66fef8a938617cd09a3cbbf4e97a12d5ab584562752357a": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-my-pack-blue-elettrica-grigio-cat_ma21mo75519-658ed3f3-ef21-482b-bd69-4cba6ee71735",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "28/09/2026 15:41"
+    },
+    "7869d5dfd88941a0943bc3638c2f9c1ad0016dc798ca0b6096b3841e76a64708": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-citroen-ami-elettrica-grigio-cat_ma21mo75519-5a619d54-0d12-4b4e-8493-0b85bc515334",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "28/09/2026 15:41"
+    },
+    "fb2d10d710c894079afe82622d73ed79616c65a86944e8af85a52ba53a378689": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-si-guida-a-14-anni-elettrica-grigio-cat_ma28mo76797-744a5340-b9e4-4ed2-8313-38436d45b676",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "28/09/2026 15:41"
+    },
+    "1d0a16495ec669939a8c432f511136016e5b82b71a3a506ec9b0af9d21b99139": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/dr-automobiles-dr-3-0-1-5-gpl-114cv-cvt-stra-full-optional-perfetta-gpl-nero-cat_ma16383mo76589-0755c5a6-2602-4e9e-944c-481a7348af2f",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "28/09/2026 15:41"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "28/09/2026 07:58",
+      "last_checked": "28/09/2026 15:41",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 756126,
+      "html_length": 755243,
       "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "28/09/2026 07:58",
+  "_last_check": "28/09/2026 15:41",
   "_last_check_day": "2026-09-28",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
