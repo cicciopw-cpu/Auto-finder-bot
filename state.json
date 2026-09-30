@@ -1943,20 +1943,28 @@
       "priority": "SCARTA",
       "score": 20,
       "first_seen": "28/09/2026 15:41"
+    },
+    "bd0206b2d3c57b105f2e483545f4cd67d17c478e88de33083cb778eddc3692a6": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/toyota-yaris-1-5h-trend-elettrica-benzina-argento-cat_ma70mo15663-a6eecd46-20f7-43b6-9dda-c085552b7cb7",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "30/09/2026 09:10"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "30/09/2026 03:25",
+      "last_checked": "30/09/2026 09:10",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 762056,
+      "html_length": 763950,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "30/09/2026 03:25",
+  "_last_check": "30/09/2026 09:10",
   "_last_check_day": "2026-09-30",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
