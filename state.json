@@ -1951,20 +1951,28 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "30/09/2026 09:10"
+    },
+    "1304ff958971924d56d7e9b45f14239918bb4da7ccfe11add98b20a680d310fc": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/aixam-mega-minauto-diesel-bianco-cat_ma16352mo18649-852df648-0911-4fc1-b36d-87f6ffec59d1",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "30/09/2026 15:44"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "30/09/2026 09:10",
+      "last_checked": "30/09/2026 15:44",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 763950,
+      "html_length": 768523,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "30/09/2026 09:10",
+  "_last_check": "30/09/2026 15:44",
   "_last_check_day": "2026-09-30",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
