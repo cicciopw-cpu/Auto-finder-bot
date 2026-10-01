@@ -1999,20 +1999,28 @@
       "priority": "SCARTA",
       "score": 20,
       "first_seen": "01/10/2026 16:49"
+    },
+    "878972879e948f2c414098245faf1e97e745c988f48ff1b96379c4be6fe322b4": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-elettrica-marrone-cat_ma21mo75519-6715ca99-1577-43e6-93cf-ac04ba828ff2",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "01/10/2026 21:55"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "01/10/2026 16:49",
+      "last_checked": "01/10/2026 21:55",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 766948,
-      "items_found": 31
+      "html_length": 769810,
+      "items_found": 30
     }
   ],
   "_source_errors": [],
-  "_last_check": "01/10/2026 16:49",
+  "_last_check": "01/10/2026 21:55",
   "_last_check_day": "2026-10-01",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
