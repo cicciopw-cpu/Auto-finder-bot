@@ -2031,21 +2031,29 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "02/10/2026 22:10"
+    },
+    "722f1edc3b926395d084b4ebf2b436fcc66e8ac2b1d5c0d041c0fd6f59a1a43c": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/smart-fortwo-electric-drive-24-anniversary-elettrica-blu-azzurro-cat_ma15525mo18439-3929ce07-a3cd-4439-94ec-809ccc7ebea6",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "03/10/2026 01:46"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "02/10/2026 22:10",
+      "last_checked": "03/10/2026 01:46",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 766104,
-      "items_found": 31
+      "html_length": 767529,
+      "items_found": 30
     }
   ],
   "_source_errors": [],
-  "_last_check": "02/10/2026 22:10",
-  "_last_check_day": "2026-10-02",
+  "_last_check": "03/10/2026 01:46",
+  "_last_check_day": "2026-10-03",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
 }
