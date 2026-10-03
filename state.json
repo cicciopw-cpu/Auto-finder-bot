@@ -2039,20 +2039,44 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "03/10/2026 01:46"
+    },
+    "f4a44bc296e4e96afa25f7228d4fd2ec42dcff05e10a7c223fc2a52003b30222": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/minauto-access-e-minauto-access-elettrica-bianco-cat_ma51766mo75302-63d40346-7fc0-4806-bc0e-d9f67451b689",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "03/10/2026 15:37"
+    },
+    "789e1af2c69d7dbc17d0610b0fabb248e3f8fa589fc67c31fa6a6dd9611e5c34": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-quadriciclo-elettrico-elettrica-verde-cat_ma28mo76797-7f51ab29-4dda-4d4f-b030-82d778bbe4a0",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "03/10/2026 15:37"
+    },
+    "91509cbe99478c5cfa6f8b28115d63248cafe1c4bde200b2b758ed3fe594021b": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/smart-fortwo-cel-3928893861-electric-drive-24-anniversary-elettrica-blu-azzurro-cat_ma15525mo18439-3929ce07-a3cd-4439-94ec-809ccc7ebea6",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "03/10/2026 15:37"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "03/10/2026 10:25",
+      "last_checked": "03/10/2026 15:37",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 768695,
-      "items_found": 30
+      "html_length": 771231,
+      "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "03/10/2026 10:25",
+  "_last_check": "03/10/2026 15:37",
   "_last_check_day": "2026-10-03",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
