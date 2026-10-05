@@ -2063,20 +2063,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "03/10/2026 15:37"
+    },
+    "6af60bec9160fe7c13c09eee601a72655530d6c2e57d0e1292381e3990ab9c18": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-citroen-ami-elettrica-cat_ma21mo75519-efc7fce3-1cd2-4334-8448-9bbda2ae9dd9",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "05/10/2026 14:42"
+    },
+    "6eb325259413540888eb07a1ccdbfd0cada116afb743a34f14482db2231afb79": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/altro-altro-my-peps-elettrica-grigio-cat_ma16328mo16564-d3389af4-b89c-4207-b9fd-7d7eb9b28f94",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "05/10/2026 14:42"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "05/10/2026 07:43",
+      "last_checked": "05/10/2026 14:42",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 770660,
+      "html_length": 766276,
       "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "05/10/2026 07:43",
+  "_last_check": "05/10/2026 14:42",
   "_last_check_day": "2026-10-05",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
