@@ -2087,20 +2087,44 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "05/10/2026 22:53"
+    },
+    "098bfef29fa19ae4147523d2c71f855b82e766baf02721c6d9699b45763ead15": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-pop-elettrica-grigio-cat_ma21mo75519-041f2817-af3c-46d2-b1df-6dec8c1f6433",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "06/10/2026 17:06"
+    },
+    "94b0a9a5924a8024da39f07028c5fc654708efd863d8a6e7414888df641a00ae": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-my-blu-elettrica-cat_ma21mo75519-a45067f4-69bd-44d4-a289-e4f4f26e807e",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "06/10/2026 17:06"
+    },
+    "0f3aac6cd3266fb3ec5b046e47b2ec03484493844a6f02ab50a66193d283c8df": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/aixam-altro-e-minauto-access-elettrica-bianco-cat_ma16352mo19736-63d40346-7fc0-4806-bc0e-d9f67451b689",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "06/10/2026 17:06"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "06/10/2026 10:05",
+      "last_checked": "06/10/2026 17:06",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 769465,
-      "items_found": 30
+      "html_length": 769188,
+      "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "06/10/2026 10:05",
+  "_last_check": "06/10/2026 17:06",
   "_last_check_day": "2026-10-06",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
