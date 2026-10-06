@@ -2111,21 +2111,29 @@
       "priority": "SCARTA",
       "score": 25,
       "first_seen": "06/10/2026 17:06"
+    },
+    "c4585f09d5dec36afce5eb9557e25202413a35a655dcc95e6e97418261522204": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-tonic-elettrica-grigio-cat_ma21mo75519-f451b9eb-94c4-4823-8284-971c0eb4c07f",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "07/10/2026 01:53"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "06/10/2026 22:14",
+      "last_checked": "07/10/2026 01:53",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 769151,
+      "html_length": 767162,
       "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "06/10/2026 22:14",
-  "_last_check_day": "2026-10-06",
+  "_last_check": "07/10/2026 01:53",
+  "_last_check_day": "2026-10-07",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
 }
