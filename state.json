@@ -2127,20 +2127,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "07/10/2026 13:04"
+    },
+    "0c8cdab4bb0f2cf3ad044db2b497f3a8099548b7e847cc3baa7b606a76bf26ee": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/aixam-a-e-easy-access-elettrica-cat_ma16352mo18582-25ff9219-fa6c-440c-ae25-a585d2fcbc16",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 19,
+      "first_seen": "07/10/2026 19:47"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "07/10/2026 13:04",
+      "last_checked": "07/10/2026 19:47",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 770613,
+      "html_length": 769423,
       "items_found": 31
     }
   ],
   "_source_errors": [],
-  "_last_check": "07/10/2026 13:04",
+  "_last_check": "07/10/2026 19:47",
   "_last_check_day": "2026-10-07",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841
