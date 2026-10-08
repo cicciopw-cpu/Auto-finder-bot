@@ -2135,21 +2135,53 @@
       "priority": "SCARTA",
       "score": 19,
       "first_seen": "07/10/2026 19:47"
+    },
+    "95f71a4b6c98d4157d8dacf3ae0daeb0c7abf16cbdd8cdc21548d624cd956163": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/dacia-spring-spring-2024-extreme-electric-65-elettrica-cat_ma16360mo75804-9425814a-d4e5-4b08-8360-249193ac6aef",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "MEDIA",
+      "score": 65,
+      "first_seen": "08/10/2026 10:53"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "08/10/2026 04:04",
+      "last_checked": "08/10/2026 10:53",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 769459,
-      "items_found": 31
+      "html_length": 765873,
+      "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "08/10/2026 04:04",
+  "_last_check": "08/10/2026 10:53",
   "_last_check_day": "2026-10-08",
   "_telegram_command_error": "",
-  "_telegram_update_offset": 235114841
+  "_telegram_update_offset": 235114841,
+  "_recent_matches": [
+    {
+      "id": "95f71a4b6c98d4157d8dacf3ae0daeb0c7abf16cbdd8cdc21548d624cd956163",
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/dacia-spring-spring-2024-extreme-electric-65-elettrica-cat_ma16360mo75804-9425814a-d4e5-4b08-8360-249193ac6aef",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "price": null,
+      "year": 2024,
+      "transmission": "automatico",
+      "fuel": "elettrica",
+      "model_key": "dacia_spring",
+      "model_name": "Dacia Spring",
+      "length_mm": 3701,
+      "family_score": 7,
+      "score": 65,
+      "priority": "MEDIA",
+      "failures": [
+        "prezzo non letto"
+      ],
+      "warnings": [],
+      "checked_at": "08/10/2026 10:53",
+      "raw_text_preview": "{\"@type\": \"Offer\", \"price\": 7300, \"priceCurrency\": \"EUR\", \"availability\": \"https://schema.org/InStock\", \"itemCondition\": \"https://schema.org/UsedCondition\", \"url\": \"/annunci/dacia-spring-spring-2024-extreme-electric-65-elettrica-cat_ma16360mo75804-9425814a-d4e5-4b08-8360-249193ac6aef\", \"seller\": {\"@type\": \"Person\", \"address\": {\"@type\": \"PostalAddress\", \"addressLocality\": \"Meda\", \"addressCountry\": \"IT\"}}} https://www.autoscout24.it/annunci/dacia-spring-spring-2024-extreme-electric-65-elettrica-cat_ma16360mo75804-9425814a-d4e5-4b08-8360-249193ac6aef"
+    }
+  ]
 }
