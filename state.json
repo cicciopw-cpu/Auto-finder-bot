@@ -2159,20 +2159,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "08/10/2026 23:17"
+    },
+    "e1af74563298f78cb73e6b45a69ed424b1f5b2b68487208a0e2626d53d7b19a7": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-my23-km0-no-vincoli-elettrica-cat_ma28mo76797-7e304a59-e69f-45ca-9bfc-16b15e61f303",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "09/10/2026 16:35"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "09/10/2026 09:28",
+      "last_checked": "09/10/2026 16:35",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 763938,
+      "html_length": 762628,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "09/10/2026 09:28",
+  "_last_check": "09/10/2026 16:35",
   "_last_check_day": "2026-10-09",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
