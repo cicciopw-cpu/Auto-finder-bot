@@ -2167,20 +2167,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "09/10/2026 16:35"
+    },
+    "eed31b689a79df44743823e0355ed5d2b028a49ca175a9563318e24545b1a2ec": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/bmw-318-serie-3-f31-2015-touring-318d-touring-business-advantage-auto-diesel-bronzo-cat_ma13mo1640-f60255e5-e8a2-4d12-b1e2-09f7b914b045",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "11/10/2026 16:18"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "11/10/2026 09:26",
+      "last_checked": "11/10/2026 16:18",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 763954,
+      "html_length": 764702,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "11/10/2026 09:26",
+  "_last_check": "11/10/2026 16:18",
   "_last_check_day": "2026-10-11",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
