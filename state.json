@@ -2175,20 +2175,28 @@
       "priority": "SCARTA",
       "score": 20,
       "first_seen": "11/10/2026 16:18"
+    },
+    "223c202a8ae18b2e88893d6dd5f2a9eff46f07931e4256f6bcbace5e21050f75": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/bmw-118-118d-msport-auto-diesel-cat_ma13mo18481-c71754f4-c7a3-46ac-a920-647a8d473f70",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "14/10/2026 16:04"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "14/10/2026 10:42",
+      "last_checked": "14/10/2026 16:04",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 764452,
+      "html_length": 762565,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "14/10/2026 10:42",
+  "_last_check": "14/10/2026 16:04",
   "_last_check_day": "2026-10-14",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
