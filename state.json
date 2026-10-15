@@ -2183,20 +2183,36 @@
       "priority": "SCARTA",
       "score": 20,
       "first_seen": "14/10/2026 16:04"
+    },
+    "0a62ead8ad18e60db1f632ed626f85e7318f86213826e6cf8b9a5b8293b2b0fc": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-my-ami-peps-elettrica-grigio-cat_ma21mo75519-d3389af4-b89c-4207-b9fd-7d7eb9b28f94",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "15/10/2026 16:24"
+    },
+    "92b86d223bffee12f05c5a8dd1700ff8ed143f8eb9520fcce13a633ed208a772": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/xev-yoyo-yoyo-easy-elettrica-verde-cat_ma51860mo75838-74fbdcbe-8aea-4c32-ba73-6a1fa5043a2f",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 45,
+      "first_seen": "15/10/2026 16:24"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "15/10/2026 11:38",
+      "last_checked": "15/10/2026 16:24",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 765040,
-      "items_found": 31
+      "html_length": 764579,
+      "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "15/10/2026 11:38",
+  "_last_check": "15/10/2026 16:24",
   "_last_check_day": "2026-10-15",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
