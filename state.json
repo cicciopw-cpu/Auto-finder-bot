@@ -2199,20 +2199,28 @@
       "priority": "SCARTA",
       "score": 45,
       "first_seen": "15/10/2026 16:24"
+    },
+    "1cc292cc3650fc7ad1d96ebe0058df4b2a74cfaefcff8c70d32bd4db517f04d1": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/dacia-spring-extreme-electric-elettrica-bianco-cat_ma16360mo75804-c073bd29-af6d-482e-ad38-4738176652da",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "17/10/2026 11:17"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "17/10/2026 07:05",
+      "last_checked": "17/10/2026 11:17",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 762203,
+      "html_length": 760179,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "17/10/2026 07:05",
+  "_last_check": "17/10/2026 11:17",
   "_last_check_day": "2026-10-17",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
