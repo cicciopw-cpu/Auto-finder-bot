@@ -2231,20 +2231,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "19/10/2026 16:25"
+    },
+    "6071ef289090e18bf9eca4cf67161bcdba5773da3629077763391e66e5cbc8d9": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/volkswagen-taigo-1-0-tsi-life-benzina-nero-cat_ma74mo75946-c1124b39-f53a-4ab7-861d-9a89ebae5328",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "22/10/2026 16:45"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "22/10/2026 11:50",
+      "last_checked": "22/10/2026 16:45",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 764508,
+      "html_length": 765393,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "22/10/2026 11:50",
+  "_last_check": "22/10/2026 16:45",
   "_last_check_day": "2026-10-22",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
