@@ -2239,20 +2239,36 @@
       "priority": "SCARTA",
       "score": 20,
       "first_seen": "22/10/2026 16:45"
+    },
+    "bfcd912cfd19115de66bc0672074278a7cd3f164a9aa242ff65997052d67eb81": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-dolcevita-elettrica-verde-cat_ma28mo76797-d0e4c72a-fa91-4b3e-ad0f-5f74ddebeaca",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "22/10/2026 20:53"
+    },
+    "2fcce2b1a0f3714907fbd4e02f0e4287c60351d8329c2597a3cf4f60fa805745": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mercedes-benz-b-180-cdi-blueefficiency-executive-diesel-cat_ma47mo18608-866321e8-cb13-4969-82cd-d07a6336358c",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "22/10/2026 20:53"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "22/10/2026 16:45",
+      "last_checked": "22/10/2026 20:53",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 765393,
+      "html_length": 764587,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "22/10/2026 16:45",
+  "_last_check": "22/10/2026 20:53",
   "_last_check_day": "2026-10-22",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
