@@ -2263,20 +2263,28 @@
       "priority": "SCARTA",
       "score": 20,
       "first_seen": "23/10/2026 00:03"
+    },
+    "673ce1433df69f3183316cecb855ec9f11ae495c49ffae00f5bbe3735e5f3140": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-my-ami-orange-elettrica-grigio-cat_ma21mo75519-c4c487ca-85c5-40ec-8c8f-edf33db2f4dc",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "24/10/2026 15:38"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "24/10/2026 11:46",
+      "last_checked": "24/10/2026 15:38",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 766615,
-      "items_found": 31
+      "html_length": 763652,
+      "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "24/10/2026 11:46",
+  "_last_check": "24/10/2026 15:38",
   "_last_check_day": "2026-10-24",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
