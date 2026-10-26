@@ -2271,20 +2271,60 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "24/10/2026 15:38"
+    },
+    "2234ac94271449fcd82ba432892e88ab9bcf770638ad7803d93b5f2ad4a2913f": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-elettrica-cat_ma28mo76797-5eeddd0d-0466-400e-827b-02bc7b60a69c",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "26/10/2026 18:54"
+    },
+    "f9d937ed3b0aae24790902ed3116bad6a532ac1e457fa4e94cc492320d55ff65": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-citroen-ami-elettrica-grigio-cat_ma21mo75519-9c464ec5-e493-400a-80fc-94a120ce94d7",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "26/10/2026 18:54"
+    },
+    "1f6af0b85315ed8e8c7f8c3d0a752a8e02f7a970c697fc8fa0cbde1135ef1795": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-si-guida-a-14-anni-elettrica-grigio-cat_ma28mo76797-9c41a7db-fb0b-4845-8988-a339a1a3fc4f",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "26/10/2026 18:54"
+    },
+    "02381a244053c585be062063267f93f13da4ee479ffd7a7a9fabc696f7959f27": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mercedes-benz-b-180-cdi-executive-auto-diesel-cat_ma47mo18608-63e13ba8-82b7-41f9-9a18-ad7a96457325",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "26/10/2026 18:54"
+    },
+    "03ad9dea0a26b3695ee23060be5dd7207b2593077de78094fb1c31cbc98ad03b": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mercedes-benz-b-180-cdi-executive-auto-diesel-nero-cat_ma47mo18608-f36c243b-c883-46dc-b1fd-6abbe9d5d1b6",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 20,
+      "first_seen": "26/10/2026 18:54"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "26/10/2026 12:26",
+      "last_checked": "26/10/2026 18:54",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 763274,
-      "items_found": 32
+      "html_length": 762446,
+      "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "26/10/2026 12:26",
+  "_last_check": "26/10/2026 18:54",
   "_last_check_day": "2026-10-26",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
