@@ -2359,20 +2359,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "29/10/2026 16:37"
+    },
+    "d6d65593bb6b111138616b8673dadc87989d45b5cf660991d635cac3dbffc4ec": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-6kw-elettrica-verde-cat_ma28mo76797-555e14c6-7d93-473d-b141-a6ec9937b24e",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "29/10/2026 21:51"
+    },
+    "8a8161d97b3845e5fda27348633d857daffbb7bf77b04ba99f1ee9c662d9f1a7": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-elettrica-blu-azzurro-cat_ma21mo75519-534144d0-05cf-4c3a-924c-236c06c7d2aa",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "29/10/2026 21:51"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "29/10/2026 16:37",
+      "last_checked": "29/10/2026 21:51",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 769526,
+      "html_length": 769593,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "29/10/2026 16:37",
+  "_last_check": "29/10/2026 21:51",
   "_last_check_day": "2026-10-29",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
