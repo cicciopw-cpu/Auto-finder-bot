@@ -2351,20 +2351,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "28/10/2026 23:50"
+    },
+    "3eb9f1a43ee6a3132311ae56b5b2b61bf1743a89c6b8a6362a4bacf38bb8317f": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-6kwh-km0-elettrica-rosso-cat_ma28mo76797-c9ede5a8-18bc-4e4a-82a2-0c012648f80f",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "29/10/2026 16:37"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "29/10/2026 09:30",
+      "last_checked": "29/10/2026 16:37",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 772102,
+      "html_length": 769526,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "29/10/2026 09:30",
+  "_last_check": "29/10/2026 16:37",
   "_last_check_day": "2026-10-29",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
