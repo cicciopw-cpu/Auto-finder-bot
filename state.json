@@ -2375,21 +2375,45 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "29/10/2026 21:51"
+    },
+    "6b0917affee8dee2def60b79a29a3436315cf28aa177d77ebc6bf5725ae802e2": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-city-elettrica-blu-azzurro-cat_ma28mo76797-8f157070-7c37-497b-9770-1cdcfaf306a5",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "30/10/2026 01:44"
+    },
+    "f6123979ae1f686f8f4d3191f25ae53952629640075c8bb9b02143456b9cb9e8": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-fiat-topolino-pronta-consegna-elettrica-verde-cat_ma28mo76797-8c274746-448f-4797-b113-e44dad78561a",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 34,
+      "first_seen": "30/10/2026 01:44"
+    },
+    "3b812e342699dd0fe5ea82f1b99e06789efbdce2e813bdc04c5b433b80cdb4b3": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/altro-altro-ami-pack-color-orange-elettrica-nero-cat_ma16328mo16564-4f12ba5b-394d-4644-845d-d1397187b32a",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 34,
+      "first_seen": "30/10/2026 01:44"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "29/10/2026 21:51",
+      "last_checked": "30/10/2026 01:44",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 769593,
+      "html_length": 769483,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "29/10/2026 21:51",
-  "_last_check_day": "2026-10-29",
+  "_last_check": "30/10/2026 01:44",
+  "_last_check_day": "2026-10-30",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
   "_recent_matches": [
