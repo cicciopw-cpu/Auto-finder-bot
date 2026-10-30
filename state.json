@@ -2399,20 +2399,44 @@
       "priority": "SCARTA",
       "score": 34,
       "first_seen": "30/10/2026 01:44"
+    },
+    "98c53f4b4effbf40bc44a010b87a9ec6c0d717fb88834cff84b35206f96ed78c": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/eli-zero-elettrica-argento-cat_ma53518mo80074-f9deb681-df96-4eed-89fa-6d9950f21229",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "30/10/2026 18:31"
+    },
+    "4d21660a9e2664c91fcc9a0678f185e3349937f192b75e699156929d2dbce5ad": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mobilize-duo-duo-80-evo-elettrica-nero-cat_ma52004mo76925-40ec7fbb-f632-44cb-9374-7be521b14836",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "30/10/2026 18:31"
+    },
+    "2bfb9d75d2bfdd4d884a6daeb4bf4bffee614bc9ff9d4830d036db23c8dbd2cd": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-si-guida-a-14-anni-pronta-consegna-elettrica-grigio-cat_ma28mo76797-72192e30-b676-4573-8fd4-8b5338cd8d88",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "30/10/2026 18:31"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "30/10/2026 11:53",
+      "last_checked": "30/10/2026 18:31",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 769403,
+      "html_length": 769400,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "30/10/2026 11:53",
+  "_last_check": "30/10/2026 18:31",
   "_last_check_day": "2026-10-30",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
