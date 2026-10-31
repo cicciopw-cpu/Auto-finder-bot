@@ -2447,20 +2447,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "31/10/2026 14:51"
+    },
+    "8d7ab3993e0cf80dd3e98788097007f4659e3fd3fa1a207749429cf5d7152e67": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/audi-q8-q8-3-0-tdi-mhev-s-line-noleggio-12-mesi-elettrica-diesel-cat_ma9mo74734-4b166f3b-9d2b-44db-ae68-2ca778c5139c",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 10,
+      "first_seen": "31/10/2026 19:27"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "31/10/2026 14:51",
+      "last_checked": "31/10/2026 19:27",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 767682,
+      "html_length": 768235,
       "items_found": 33
     }
   ],
   "_source_errors": [],
-  "_last_check": "31/10/2026 14:51",
+  "_last_check": "31/10/2026 19:27",
   "_last_check_day": "2026-10-31",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
