@@ -2463,20 +2463,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "03/11/2026 00:34"
+    },
+    "6c08d03bad92c15d422f7bc0d2b8555837883735fe3ddbccc73ef9e571c53594": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/peugeot-208-1-2-hybrid-allure-145cv-e-dcs-6-elettrica-benzina-cat_ma55mo20057-a43d8825-6e6c-41ae-8b88-b5c79ca9c676",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "03/11/2026 20:33"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "03/11/2026 13:22",
+      "last_checked": "03/11/2026 20:33",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 769909,
+      "html_length": 767835,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "03/11/2026 13:22",
+  "_last_check": "03/11/2026 20:33",
   "_last_check_day": "2026-11-03",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
