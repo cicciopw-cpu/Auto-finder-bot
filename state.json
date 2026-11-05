@@ -2511,20 +2511,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "05/11/2026 08:04"
+    },
+    "90ff9e9a55118ea3e7b800f70fd8f9d6c5feb48a7f11c4200530a02ec75bd1b0": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/peugeot-208-1-2-hybrid-allure-110cv-e-dcs-6-elettrica-benzina-cat_ma55mo20057-4ffb151b-b059-43d0-adbf-838a58947566",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "05/11/2026 16:31"
+    },
+    "0eec0c053c5aaa793cbe02b9497816fa0a8092669906cd23f7e22aa5293b491a": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/mercedes-benz-s-320-cdi-204cv-diesel-cat_ma47mo15105-406bfbad-c39f-4bbe-8495-f0afc3c33711",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "05/11/2026 16:31"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "05/11/2026 08:04",
+      "last_checked": "05/11/2026 16:31",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 769577,
+      "html_length": 769430,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "05/11/2026 08:04",
+  "_last_check": "05/11/2026 16:31",
   "_last_check_day": "2026-11-05",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
