@@ -2527,20 +2527,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "05/11/2026 16:31"
+    },
+    "0520e8d874c2c643e94ca314135d72f277d71a03650094ab47e5d3be69df1a7f": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-peps-elettrica-marrone-cat_ma21mo75519-16132b49-1d66-4c82-bdfd-4216782e694c",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "05/11/2026 23:11"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "05/11/2026 16:31",
+      "last_checked": "05/11/2026 23:11",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 769430,
+      "html_length": 771157,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "05/11/2026 16:31",
+  "_last_check": "05/11/2026 23:11",
   "_last_check_day": "2026-11-05",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
