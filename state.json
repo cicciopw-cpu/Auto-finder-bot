@@ -2495,20 +2495,36 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "04/11/2026 20:40"
+    },
+    "093f635b94886752cc6805495fb6f2e24ae436bde5cea391be10379c5c43af6c": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-dolcevita-elettrica-verde-cat_ma28mo76797-0891fdc7-6474-4151-a90b-59ef862360b5",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "05/11/2026 08:04"
+    },
+    "528e73932237de6c462a9a9654e944d19ffced7e0413c0ffc82cea3216012459": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/fiat-topolino-dolcevita-elettrica-verde-cat_ma28mo76797-381b65ed-7633-441b-93f7-3bce8f1b381c",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "05/11/2026 08:04"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "05/11/2026 01:56",
+      "last_checked": "05/11/2026 08:04",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 772347,
+      "html_length": 769577,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "05/11/2026 01:56",
+  "_last_check": "05/11/2026 08:04",
   "_last_check_day": "2026-11-05",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
