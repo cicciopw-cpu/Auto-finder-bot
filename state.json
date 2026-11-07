@@ -2543,20 +2543,44 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "06/11/2026 18:10"
+    },
+    "674c723db1c8419b965055b59a53a944b44112316915143f82a3021824d7babc": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-dark-side-elettrica-nero-cat_ma21mo75519-d9b8c259-3c93-4ee0-96d7-0b6963a49d46",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 34,
+      "first_seen": "07/11/2026 15:59"
+    },
+    "b501e52d9fa414fce37ba45650d5abac71230fd1295cace68071e56db13ef5fd": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-pack-color-elettrica-cat_ma21mo75519-17230de5-b955-4314-8ddf-56bbf218257f",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 34,
+      "first_seen": "07/11/2026 15:59"
+    },
+    "a5f1f6308006b7606756ce213bc2755c93538043c8f25f018ee3b352316f202a": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/citroen-ami-ami-elettrica-cat_ma21mo75519-e9a85b24-ac7e-4d83-bca3-e641ff9e7a9e",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 34,
+      "first_seen": "07/11/2026 15:59"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "07/11/2026 09:07",
+      "last_checked": "07/11/2026 15:59",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 772687,
-      "items_found": 31
+      "html_length": 767803,
+      "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "07/11/2026 09:07",
+  "_last_check": "07/11/2026 15:59",
   "_last_check_day": "2026-11-07",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
