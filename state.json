@@ -2591,20 +2591,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "09/11/2026 22:50"
+    },
+    "c86e9d8607cc2f7e9dea967742decc60e9c91037ebb3fb11c9fdf22b1bfc000c": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/altro-altro-ami-2021-my-orange-white-elettrica-grigio-cat_ma16328mo16564-064f059d-849d-48bf-a41f-a1da538b8fde",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 40,
+      "first_seen": "10/11/2026 13:01"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "10/11/2026 05:03",
+      "last_checked": "10/11/2026 13:01",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 765872,
+      "html_length": 767353,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "10/11/2026 05:03",
+  "_last_check": "10/11/2026 13:01",
   "_last_check_day": "2026-11-10",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
