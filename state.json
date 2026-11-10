@@ -2599,20 +2599,28 @@
       "priority": "SCARTA",
       "score": 40,
       "first_seen": "10/11/2026 13:01"
+    },
+    "130388cb4e5029dc0ba204926e0223c9cd692091e5f14f53de37a281caa089bb": {
+      "title": "Annuncio senza titolo",
+      "url": "https://www.autoscout24.it/annunci/minauto-access-access-my24-elettrica-bianco-cat_ma51766mo75302-fad08ab6-0491-4d3d-a7a9-b4fc93327fd5",
+      "source": "AutoScout24 - automatiche 2024+ 5-9k",
+      "priority": "SCARTA",
+      "score": 25,
+      "first_seen": "10/11/2026 20:37"
     }
   },
   "_source_stats": [
     {
       "name": "AutoScout24 - automatiche 2024+ 5-9k",
       "url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "last_checked": "10/11/2026 13:01",
+      "last_checked": "10/11/2026 20:37",
       "final_url": "https://www.autoscout24.it/lst?atype=C&cy=I&fregfrom=2024&gear=A&pricefrom=5000&priceto=9000&sort=age&desc=1",
-      "html_length": 767353,
+      "html_length": 767414,
       "items_found": 32
     }
   ],
   "_source_errors": [],
-  "_last_check": "10/11/2026 13:01",
+  "_last_check": "10/11/2026 20:37",
   "_last_check_day": "2026-11-10",
   "_telegram_command_error": "",
   "_telegram_update_offset": 235114841,
